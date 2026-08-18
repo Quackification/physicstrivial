@@ -1,6 +1,6 @@
 # phys trivial
 
-A zero-build static practice site for browsing physics olympiad problems by topic. The supplied archive has been parsed into 658 problems from 40 F=ma and USAPhO exams covering 2008–2025.
+amctrivial style practice site for browsing physics olympiad problems by topic. The supplied archive has been parsed into 658 problems from 40 F=ma and USAPhO exams covering 2008–2025.
 
 ## Run locally
 Extract and run
