@@ -25,7 +25,7 @@ Problem statements, answer choices, diagrams, and solutions are displayed as exa
 - PDF solution crops for 632 problems; answer-key-only PDFs use the recovered answer letter
 - Five letter-only response buttons for F=ma and no response buttons for USAPhO
 - Shared stems are repeated above all 38 dependent follow-up questions across two- and three-question groups
-- 447 F=ma answer letters independently verified from explicit keys/markers or reliable bold-font metadata
+- 447 F=ma answer letters
 - 103 ambiguous answer letters left neutral; selecting them reveals the official solution without claiming right or wrong
 
-The structured data lives in `aapt-problems.json`, while 1,713 WebP crops live under `assets/problems/` and `assets/solutions/` Problem tags were generated from Gemini Flash (since i'm broke), so they may be inaccurate. Problem difficulty is generated heuristically from problem number.
+The structured data lives in `aapt-problems.json`, while 1,713 WebP crops live under `assets/problems/` and `assets/solutions/` Problem tags were generated from Gemini Flash (since i'm broke), so they may be inaccurate. Problem difficulty is generated heuristically from problem number. For many earlier sets, aapt did not provide solutions, only answers, and some answers may not line up with the answer given from aapt's solution (aapt is very annoying and their solutions don't have standardized formats across the years).
