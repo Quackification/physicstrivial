@@ -3,8 +3,7 @@
 A zero-build static practice site for browsing physics olympiad problems by topic. The supplied archive has been parsed into 658 problems from 40 F=ma and USAPhO exams covering 2008–2025.
 
 ## Run locally
-
-Prism displays the web source as `index.html.txt`, `styles.css.txt`, and `app.js.txt`. The downloadable bundle already contains deployment-ready filenames, `aapt-problems.json`, and the `assets/` image tree. Serve that extracted directory:
+Extract and run
 
 ```sh
 python3 -m http.server 8000
