@@ -1,0 +1,917 @@
+{
+  "source": "https://aapt.org/physicsteam/PT-exams.cfm",
+  "generated_utc": "2026-08-17T03:36:47Z",
+  "count": 91,
+  "files": [
+    {
+      "year": "unknown-year",
+      "label": "AAPT's DEI Strategy",
+      "url": "https://aapt.org/aboutaapt/upload/AAPT_DEI_value_prop_vision_guiding_princ-final.pdf",
+      "filename": "unknown-year/AAPT_DEI_value_prop_vision_guiding_princ-final.pdf",
+      "status": "downloaded",
+      "size_bytes": 152287,
+      "sha256": "7532975ecd8c76ca09201b4e9257b7639fae35fd2453028ee87220bb3ce57330",
+      "error": ""
+    },
+    {
+      "year": "2025",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/upload/FMA-exam.pdf",
+      "filename": "2025/FMA-exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 490735,
+      "sha256": "2d979b4735b845e3bc387f1e365238ed8525393f17fe3841f1f9a5c976379693",
+      "error": ""
+    },
+    {
+      "year": "2025",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/FMA_solutions.pdf",
+      "filename": "2025/FMA_solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 532539,
+      "sha256": "318442e318c1f3f6f2822030a421a0cfe6988126b2a1c9510efcba6341503295",
+      "error": ""
+    },
+    {
+      "year": "2025",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO_Exam_25.pdf",
+      "filename": "2025/USAPhO_Exam_25.pdf",
+      "status": "downloaded",
+      "size_bytes": 484395,
+      "sha256": "2e8b438ad960749de7a09f905dde0eddf638d5e5d75d32222d4c860152f5059b",
+      "error": ""
+    },
+    {
+      "year": "2025",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf",
+      "filename": "2025/2025-USAPhO-Exam_solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 578768,
+      "sha256": "2e849628670f1f97a615776e8098534ea817fc52c20d2223f4cabc9a7ada1a85",
+      "error": ""
+    },
+    {
+      "year": "2023",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/upload/2023_F-ma_Exam.pdf",
+      "filename": "2023/2023_F-ma_Exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 312064,
+      "sha256": "aab7e2c3c60710aa6e6e9aa88623920402f1b072f76c792aee3a4d3e650867a1",
+      "error": ""
+    },
+    {
+      "year": "2023",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/F-ma-2023-Solutions.pdf",
+      "filename": "2023/F-ma-2023-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 338635,
+      "sha256": "beed79c6caac2a48a8c05cfe362f10b386d204ad2bda7836af2ecf724a8b94d5",
+      "error": ""
+    },
+    {
+      "year": "2023",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/2023-USAPhO-Exam.pdf",
+      "filename": "2023/2023-USAPhO-Exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 483047,
+      "sha256": "d882fdf14c5500348d9ac932de7231751e7be4a580dcd25203ac21736cff0241",
+      "error": ""
+    },
+    {
+      "year": "2023",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf",
+      "filename": "2023/2023-USAPhO-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 437364,
+      "sha256": "58182aeafc08c9378fce9fc6715d076cfcb38e50c7c89c649afcb5add66de3be",
+      "error": ""
+    },
+    {
+      "year": "2024",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/upload/2024_F-ma_Exam.pdf",
+      "filename": "2024/2024_F-ma_Exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 564542,
+      "sha256": "81819eb4235db2c0374c527753dc733a4c8b0b81b38526924ecf02bc096edc35",
+      "error": ""
+    },
+    {
+      "year": "2024",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf",
+      "filename": "2024/F-ma-2024-Solutions_v2.pdf",
+      "status": "downloaded",
+      "size_bytes": 594168,
+      "sha256": "ec08944bb47971a20e505e18d9260b64963ffe6654d7cc799ebb44c779ec33cd",
+      "error": ""
+    },
+    {
+      "year": "2024",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO_Exam_24.pdf",
+      "filename": "2024/USAPhO_Exam_24.pdf",
+      "status": "downloaded",
+      "size_bytes": 1016701,
+      "sha256": "1c187bf9ae19bd80bde71c137f52f311c118c1dc0d2fc7607eb95ae69628f60c",
+      "error": ""
+    },
+    {
+      "year": "2024",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf",
+      "filename": "2024/2024-USAPhO-Exam_solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 925783,
+      "sha256": "fe681313c75321cd2e525449f09d54b1cdd49ffcf356911e5732297d804fe412",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Fnet=ma exam A",
+      "url": "https://aapt.org/physicsteam/upload/2022_Fma_Exam_A-2.pdf",
+      "filename": "2022/2022_Fma_Exam_A-2.pdf",
+      "status": "downloaded",
+      "size_bytes": 207335,
+      "sha256": "1da9dc454485d71068d2aea105efe56de8935861176b31b364a819e0b2b97685",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2022_Fma_Exam_A_Solutions.pdf",
+      "filename": "2022/2022_Fma_Exam_A_Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 244471,
+      "sha256": "ebdfa800e22afc122426c47d4034ae1b10c91756adf05aba3d4d61a283f4a18e",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Fnet=ma exam B",
+      "url": "https://aapt.org/physicsteam/upload/2022_Fma_Exam_B.pdf",
+      "filename": "2022/2022_Fma_Exam_B.pdf",
+      "status": "downloaded",
+      "size_bytes": 213813,
+      "sha256": "e5629999dcd15b4118cd7aad68402a03641e82beb2b94f52a9ec8ea4efc561b4",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf",
+      "filename": "2022/2022_Fma_Exam_B_Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 236973,
+      "sha256": "b3852a6dc73d8da2f0c414c0e930178660f77e941dffaa8bec1a23f6602d20f5",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/2022-USAPhO-Exam.pdf",
+      "filename": "2022/2022-USAPhO-Exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 220497,
+      "sha256": "06c8038afdbe26c205f87c3120b3a28946dbf9ab95144300f7ca340786e448de",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf",
+      "filename": "2022/2022-USAPhO-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 303980,
+      "sha256": "87f81efeef6e33859b43185c875ae293eafd27c7ea33f6b23e7e4a0f4fe15065",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Training Camp Theoretical Exam",
+      "url": "https://aapt.org/physicsteam/upload/2022_Theory_TST.pdf",
+      "filename": "2022/2022_Theory_TST.pdf",
+      "status": "downloaded",
+      "size_bytes": 480903,
+      "sha256": "710cea32f2ecf0cc6a68b6354a030a89cf029080a290c3e303bc56e8da3ac402",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2022_Theory_TST_Solutions.pdf",
+      "filename": "2022/2022_Theory_TST_Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 555576,
+      "sha256": "8b3a8d6780c7f79621c88ab98e08f2a99e585f3a829e02c1c07a8c2f91f5a42f",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Training Camp Mystery Lab",
+      "url": "https://aapt.org/physicsteam/upload/2022_Experiment_TST.pdf",
+      "filename": "2022/2022_Experiment_TST.pdf",
+      "status": "downloaded",
+      "size_bytes": 110837,
+      "sha256": "730b29070b01dfdf4ceb17fb1e6163704ed84af1da773d041e77ab3cfd2ce6f7",
+      "error": ""
+    },
+    {
+      "year": "2022",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2022_Experiment_TST_Solutions.pdf",
+      "filename": "2022/2022_Experiment_TST_Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 139431,
+      "sha256": "ec7d63abbac92f02c78baa9e6c7e57960ae321ff9884ed002d07bd621227b851",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/upload/F-ma-2021.pdf",
+      "filename": "2021/F-ma-2021.pdf",
+      "status": "downloaded",
+      "size_bytes": 293106,
+      "sha256": "066bb58b2b32314ed196459cafac3994648a2cf3eccd4ad986b33310ce6f6162",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/F-ma-2021-Solutions.pdf",
+      "filename": "2021/F-ma-2021-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 333246,
+      "sha256": "2174c19148ea80dd71ad874eb3c46af422b2b48231cd68a3f2f8e924c69261aa",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/Common2022/upload/2021-USAPhO.pdf",
+      "filename": "2021/2021-USAPhO.pdf",
+      "status": "downloaded",
+      "size_bytes": 179300,
+      "sha256": "620840276519ca162d49a7112f2831a88cf155c669ee89fcd16db04cba7dfbf3",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common2022/upload/2021-USAPhO_Solutions_v3.pdf",
+      "filename": "2021/2021-USAPhO_Solutions_v3.pdf",
+      "status": "downloaded",
+      "size_bytes": 256550,
+      "sha256": "fc75c8783fa320afe323f81110465b172499236f804f133946508049791fc527",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "USAPhO Plus exam",
+      "url": "https://aapt.org/Common2022/upload/2021-USAPhO_plus.pdf",
+      "filename": "2021/2021-USAPhO_plus.pdf",
+      "status": "downloaded",
+      "size_bytes": 283302,
+      "sha256": "b7e54b370a945bdabe74f426d6ffe28ab7ebb98e8717ce69de744c6ae453db89",
+      "error": ""
+    },
+    {
+      "year": "2021",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common2022/upload/2021-USAPhO_plus_Solutions_v2.pdf",
+      "filename": "2021/2021-USAPhO_plus_Solutions_v2.pdf",
+      "status": "downloaded",
+      "size_bytes": 323592,
+      "sha256": "1ce62d2d1f8dd6b1cbf1bb3c2cdfa7ffc4e9cd61d72a9aef87ffef518d5a4152",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "Fnet=ma exam A",
+      "url": "https://aapt.org/physicsteam/upload/2019_Fma_A.pdf",
+      "filename": "2019/2019_Fma_A.pdf",
+      "status": "downloaded",
+      "size_bytes": 187288,
+      "sha256": "7d8ced296e35a9882bc8761247efdc7ea8b335f2c61b379db0e95c87d5cee60b",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2020/upload/2019_Fma_A_solution.pdf",
+      "filename": "2019/2019_Fma_A_solution.pdf",
+      "status": "downloaded",
+      "size_bytes": 232408,
+      "sha256": "b9fbe21c11ad096d1854d045a1cc56756ff9061e17af9704bf8ff0f7c6d94369",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "Fnet=ma exam B",
+      "url": "https://aapt.org/physicsteam/upload/2019_Fma_B.pdf",
+      "filename": "2019/2019_Fma_B.pdf",
+      "status": "downloaded",
+      "size_bytes": 191344,
+      "sha256": "2d13ef513df6d31a3776b710273dc6f81d35355c81d422e9079572f7aedd859a",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2020/upload/2019_Fma_B_solution_rev.pdf",
+      "filename": "2019/2019_Fma_B_solution_rev.pdf",
+      "status": "downloaded",
+      "size_bytes": 238990,
+      "sha256": "46106b52f915251fab6f4481a819ea33c97a6feada63535c4428647dc620f03b",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/2019_USAPhO.pdf",
+      "filename": "2019/2019_USAPhO.pdf",
+      "status": "downloaded",
+      "size_bytes": 253682,
+      "sha256": "29847c38daa6fac5353a789304ea943df0b71e091ef425cb1cee7065e8d34e98",
+      "error": ""
+    },
+    {
+      "year": "2019",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf",
+      "filename": "2019/USAPhO-2019-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 319094,
+      "sha256": "ec1cfcaee7d4ac6d1ca9a6067366272bd2d10cff54e26d0923ced44f8d5742ed",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "Fnet=ma exam A",
+      "url": "https://aapt.org/physicsteam/upload/2020_Fma_A_v2.pdf",
+      "filename": "2020/2020_Fma_A_v2.pdf",
+      "status": "downloaded",
+      "size_bytes": 195675,
+      "sha256": "45369c4a721e75b3a76e8d6237d1906c743d28ef270b207242963edacb7438c6",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/2020_Fma_A_Solutions_v2.pdf",
+      "filename": "2020/2020_Fma_A_Solutions_v2.pdf",
+      "status": "downloaded",
+      "size_bytes": 239292,
+      "sha256": "ec725a1fb1a1193c424d802824cf85b28950af3eeda87d5ba8c9dea09d4c4d90",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "Fnet=ma exam B",
+      "url": "https://aapt.org/physicsteam/upload/2020_Fma_B.pdf",
+      "filename": "2020/2020_Fma_B.pdf",
+      "status": "downloaded",
+      "size_bytes": 191932,
+      "sha256": "1f8a5f37e72fb42d58af078492820e2748ad21cdd68025a7f9c3267dead589c9",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf",
+      "filename": "2020/2020-Fma-Exam-B_solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 241919,
+      "sha256": "a8f0dd1fffb4103aaff1f1b91771f82bad35736ae4d526346aadceec3c866169",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/Common/upload/2020_USAPhO.pdf",
+      "filename": "2020/2020_USAPhO.pdf",
+      "status": "downloaded",
+      "size_bytes": 302413,
+      "sha256": "940904220f90fb4dd00ddf6a0751b64181405d91ba0553a28ee13aa96a7a7d64",
+      "error": ""
+    },
+    {
+      "year": "2020",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/2020_USAPhO_solutions.pdf",
+      "filename": "2020/2020_USAPhO_solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 363056,
+      "sha256": "c019abf34bf159e1aa93f05726f20a77edb9c41e7e481316ffe06b4b77c567b9",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "Fnet=ma exam A",
+      "url": "https://aapt.org/physicsteam/2019/upload/Fma-2018-A.pdf",
+      "filename": "2018/Fma-2018-A.pdf",
+      "status": "downloaded",
+      "size_bytes": 190632,
+      "sha256": "933b3229241839726f79525d4f37d5964ddead1734b878252645ce864dcbb808",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2019/upload/Fma-2018-A-Solutions.pdf",
+      "filename": "2018/Fma-2018-A-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 213123,
+      "sha256": "00c95c82490d8c84adc60713d28d202b72078e40a0200fe32702878fcde9f8a3",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "Fnet=ma exam B",
+      "url": "https://aapt.org/physicsteam/2019/upload/Fma-2018-B.pdf",
+      "filename": "2018/Fma-2018-B.pdf",
+      "status": "downloaded",
+      "size_bytes": 170628,
+      "sha256": "392f854090a513404b38c7592d93ad7d36665217b6f755bfb2b751c957b0e580",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2019/upload/Fma-2018-B-Solutions.pdf",
+      "filename": "2018/Fma-2018-B-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 193210,
+      "sha256": "28ce7c6490b79adaef19784ee2d0e4fe5791524fc14dcac64a2587ee44e92138",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/2019/upload/USAPhO-2018.pdf",
+      "filename": "2018/USAPhO-2018.pdf",
+      "status": "downloaded",
+      "size_bytes": 232402,
+      "sha256": "77497d89109484c8d448c7358001099a11d9f69f5126592332ed91d7c3ef18f9",
+      "error": ""
+    },
+    {
+      "year": "2018",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2018-Solutions.pdf",
+      "filename": "2018/USAPhO-2018-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 290594,
+      "sha256": "1e6e5943665bad0a12904c4985c3c56f69c260bdba584fb620cfff598887d0ad",
+      "error": ""
+    },
+    {
+      "year": "2017",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2018/upload/2017-Fma-exam.pdf",
+      "filename": "2017/2017-Fma-exam.pdf",
+      "status": "downloaded",
+      "size_bytes": 176371,
+      "sha256": "600b795b7d4310524b19c30b72ea605f2cea759902df4653a02dfaffe0cb7727",
+      "error": ""
+    },
+    {
+      "year": "2017",
+      "label": "Answers",
+      "url": "https://aapt.org/physicsteam/2018/upload/Fma-Answers.pdf",
+      "filename": "2017/Fma-Answers.pdf",
+      "status": "downloaded",
+      "size_bytes": 177825,
+      "sha256": "71181ed7077d8a11cd67b784c4a710800334195dc5a8f42aac9cb1a5c4753248",
+      "error": ""
+    },
+    {
+      "year": "2017",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/2018/upload/2017-USAPhO-exam-2.pdf",
+      "filename": "2017/2017-USAPhO-exam-2.pdf",
+      "status": "downloaded",
+      "size_bytes": 1653003,
+      "sha256": "497837834efd51e2607752445d62ef3b14276117c2e925b679e0663adc2c09d4",
+      "error": ""
+    },
+    {
+      "year": "2017",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf",
+      "filename": "2017/USAPhO-2017-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 1725575,
+      "sha256": "ddcc41f948246a87b9b1cb58b5a4f046dc21470f81bc486adade00dbdeffaed3",
+      "error": ""
+    },
+    {
+      "year": "2016",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2016/upload/exam1-2016-3-1-2.pdf",
+      "filename": "2016/exam1-2016-3-1-2.pdf",
+      "status": "downloaded",
+      "size_bytes": 145105,
+      "sha256": "b0e816275baec8b1436c4dc01d31772bac4ca5180473dfb436a7c3f69cfdd2dd",
+      "error": ""
+    },
+    {
+      "year": "2016",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2016/upload/exam1-2016-3-1-solutions.pdf",
+      "filename": "2016/exam1-2016-3-1-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 178881,
+      "sha256": "44c18b0437237b6558a66614b1516bc8a7971b2274db7b885fd38c1c4e842498",
+      "error": ""
+    },
+    {
+      "year": "2016",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2016.pdf",
+      "filename": "2016/USAPhO-2016.pdf",
+      "status": "downloaded",
+      "size_bytes": 199914,
+      "sha256": "db264ffa86c3c8574b0ca4ebe5af830f7a6028737d3344111caa9c6f15a2afdc",
+      "error": ""
+    },
+    {
+      "year": "2016",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf",
+      "filename": "2016/USAPhO-2016-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 255312,
+      "sha256": "74ec936ee07f7a22871874b9c50a928d7560c3c157e400077c3bebab0a9e96a6",
+      "error": ""
+    },
+    {
+      "year": "2015",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2015/upload/exam1-2015-1-8.pdf",
+      "filename": "2015/exam1-2015-1-8.pdf",
+      "status": "downloaded",
+      "size_bytes": 169710,
+      "sha256": "f36e110605cc42e88beda37b3dc4fbd5893094071118beba7c54cbdf5e892836",
+      "error": ""
+    },
+    {
+      "year": "2015",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2016/upload/exam1-2015-1-8-answer-typo-corrected.pdf",
+      "filename": "2015/exam1-2015-1-8-answer-typo-corrected.pdf",
+      "status": "downloaded",
+      "size_bytes": 199133,
+      "sha256": "23f7e1a4a13047c5428312e7ddc968f5580855bbd1240b8c4c185883dbeec0a6",
+      "error": ""
+    },
+    {
+      "year": "2015",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/2015/upload/E3-2-5.pdf",
+      "filename": "2015/E3-2-5.pdf",
+      "status": "downloaded",
+      "size_bytes": 198261,
+      "sha256": "aa62d1e16ae0a49d427f929839be4ba2a176957a28d66e5a873c19b5c28dfb77",
+      "error": ""
+    },
+    {
+      "year": "2015",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf",
+      "filename": "2015/USAPhO-2015-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 276340,
+      "sha256": "e0943e76057c1dad7d95e68ff3b4534d1a96dc3a77c10aaea632e48d68275f89",
+      "error": ""
+    },
+    {
+      "year": "2014",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2015/upload/exam1-2014-2-2.pdf",
+      "filename": "2014/exam1-2014-2-2.pdf",
+      "status": "downloaded",
+      "size_bytes": 199888,
+      "sha256": "1d99a1c1d7a628de31c4e2064e17cd87cc7acedc72a7a5296211fbda070b300d",
+      "error": ""
+    },
+    {
+      "year": "2014",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2015/upload/exam1-2014-2-2-solutions.pdf",
+      "filename": "2014/exam1-2014-2-2-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 219993,
+      "sha256": "f8da6c23f1b9f4286582d6675363ff7a7777ab2e4a2f09a69917efd201b1dff3",
+      "error": ""
+    },
+    {
+      "year": "2014",
+      "label": "USAPhO exam",
+      "url": "https://aapt.org/physicsteam/2015/upload/E3-2-2.pdf",
+      "filename": "2014/E3-2-2.pdf",
+      "status": "downloaded",
+      "size_bytes": 216539,
+      "sha256": "d88117f5055715970afd40c406b5798204ad729ef17ee2faab94fdebeaff8d0d",
+      "error": ""
+    },
+    {
+      "year": "2014",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf",
+      "filename": "2014/USAPhO-2014-Solutions_rev-4012021.pdf",
+      "status": "downloaded",
+      "size_bytes": 429096,
+      "sha256": "fe69688f255c9aec4eacc437863be07b87cbf0c3b0c5c1cd402c9e31a9a19289",
+      "error": ""
+    },
+    {
+      "year": "2013",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2014/upload/exam1-2013-1-6-unlocked.pdf",
+      "filename": "2013/exam1-2013-1-6-unlocked.pdf",
+      "status": "downloaded",
+      "size_bytes": 196776,
+      "sha256": "ccd8991e7e388a9b1cb3f9bb1510e8a4626a86fd3b751db1d7decac317f46eaa",
+      "error": ""
+    },
+    {
+      "year": "2013",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2014/upload/exam1-2013-solutions.pdf",
+      "filename": "2013/exam1-2013-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 243621,
+      "sha256": "4f16b5242d744989a38b3e59604d7fa99448d66e13a9bbd4b94331479e6f6554",
+      "error": ""
+    },
+    {
+      "year": "2013",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/physicsteam/2014/upload/E3-1-7.pdf",
+      "filename": "2013/E3-1-7.pdf",
+      "status": "downloaded",
+      "size_bytes": 309898,
+      "sha256": "be072b5212e1b46a2905ff3a7a961441638573657d1f799239d080fd12a1f4cd",
+      "error": ""
+    },
+    {
+      "year": "2013",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf",
+      "filename": "2013/USAPhO-2013-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 337437,
+      "sha256": "81d277eb654cb1ecfc212110996af39ee270233b7c56ae3833653ebcdf2f2d69",
+      "error": ""
+    },
+    {
+      "year": "2012",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2013/upload/exam1-2012-unlocked.pdf",
+      "filename": "2012/exam1-2012-unlocked.pdf",
+      "status": "downloaded",
+      "size_bytes": 115854,
+      "sha256": "8d9ab150b77f61111057d758c13613259026e94376265867a6cc1f6498425407",
+      "error": ""
+    },
+    {
+      "year": "2012",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2013/upload/exam1-2012-unlocked-solutions.pdf",
+      "filename": "2012/exam1-2012-unlocked-solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 119337,
+      "sha256": "1046a87e12c183ed46ba608f6d058033ff11425a1ef263ecc5d3c1fc50bb6762",
+      "error": ""
+    },
+    {
+      "year": "2012",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/physicsteam/2013/upload/E3-2-3.pdf",
+      "filename": "2012/E3-2-3.pdf",
+      "status": "downloaded",
+      "size_bytes": 109043,
+      "sha256": "51559379517b00603d3f0323d676b9ce8d946d9a8b533fbbdecf1af04e8e8044",
+      "error": ""
+    },
+    {
+      "year": "2012",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/upload/USAPhO-2012-Solutions.pdf",
+      "filename": "2012/USAPhO-2012-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 229468,
+      "sha256": "9cf8298237777c718045fd4513a9a0a8555e5fa6f3f512437f0c57417cccf972",
+      "error": ""
+    },
+    {
+      "year": "2011",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2012/upload/WebAssign-exam1-2011-1-4.pdf",
+      "filename": "2011/WebAssign-exam1-2011-1-4.pdf",
+      "status": "downloaded",
+      "size_bytes": 121755,
+      "sha256": "7a37795ce3d86deb833629aefa0eb1e683f6efc6f2e81383ff85b86e7765296f",
+      "error": ""
+    },
+    {
+      "year": "2011",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2012/upload/exam1-2011-1-3-answers_1.pdf",
+      "filename": "2011/exam1-2011-1-3-answers_1.pdf",
+      "status": "downloaded",
+      "size_bytes": 123676,
+      "sha256": "803079734340896ef781fbf2f9d3f37ab9c887dd0186cb7d5e66c684a721d556",
+      "error": ""
+    },
+    {
+      "year": "2011",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/Common/upload/USAPhO-2011_rev-4012021.pdf",
+      "filename": "2011/USAPhO-2011_rev-4012021.pdf",
+      "status": "downloaded",
+      "size_bytes": 178010,
+      "sha256": "a69e0f2077a0114452409be206c64047a823eaad13b89be8d04f4dde1e55490d",
+      "error": ""
+    },
+    {
+      "year": "2011",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf",
+      "filename": "2011/USAPhO-2011-Solutions_rev-4012021.pdf",
+      "status": "downloaded",
+      "size_bytes": 241590,
+      "sha256": "31f7929ee29265432a39dcefb1cb06ae0db18c6e56a9786414d2ec0cf9acf986",
+      "error": ""
+    },
+    {
+      "year": "2010",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2010/upload/2010_Fma.pdf",
+      "filename": "2010/2010_Fma.pdf",
+      "status": "downloaded",
+      "size_bytes": 140595,
+      "sha256": "52998543393dc1b98b2bee397fd3ed44f0a4b30febd6a177f078444d3e9b2e1d",
+      "error": ""
+    },
+    {
+      "year": "2010",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2010/upload/2010_FmaSolutions.pdf",
+      "filename": "2010/2010_FmaSolutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 146580,
+      "sha256": "0ae65ac13f158266c4e2e583607152ea78bf7e98ee71954f3eb99685af930c90",
+      "error": ""
+    },
+    {
+      "year": "2010",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/physicsteam/2010/upload/2010_SemiFinal.pdf",
+      "filename": "2010/2010_SemiFinal.pdf",
+      "status": "downloaded",
+      "size_bytes": 102410,
+      "sha256": "d888d2b3f53eaf805d485b7dcdc17c4bf0fbc9a939a0fdd5b2cb20a62340df2e",
+      "error": ""
+    },
+    {
+      "year": "2010",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf",
+      "filename": "2010/USAPhO-2010-Solutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 197563,
+      "sha256": "a208eb6c16de12bffa7a3dd7ba4dbbd0029696daca7766b6ea4e7033a89a5790",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/physicsteam/2010/upload/2009_F-ma.pdf",
+      "filename": "2009/2009_F-ma.pdf",
+      "status": "downloaded",
+      "size_bytes": 78284,
+      "sha256": "030e4e24363784fc12a4308556800a7ff5e530ca194617548ab4262976a81d87",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2010/upload/2009_F-maSolutions.pdf",
+      "filename": "2009/2009_F-maSolutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 80037,
+      "sha256": "bff8a963c356d60ae879e182114f5dc9bf096817b48eecaf8246cb84707728d0",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Quarter-Final exam",
+      "url": "https://aapt.org/physicsteam/2010/upload/2009_QtrFinal.pdf",
+      "filename": "2009/2009_QtrFinal.pdf",
+      "status": "downloaded",
+      "size_bytes": 413940,
+      "sha256": "144c31e61b7e5829811ff39ac0edfe7bb11b996e3836cafabd25ba2e2b03dcb1",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Solutions",
+      "url": "https://aapt.org/physicsteam/2010/upload/2009_QtrFinalSolutions.pdf",
+      "filename": "2009/2009_QtrFinalSolutions.pdf",
+      "status": "downloaded",
+      "size_bytes": 442942,
+      "sha256": "c67be118c7c31805e7929564f88bbf4d9e47457925bc20f389b0caa8f042c941",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/physicsteam/2010/upload/2009_SemiFinal.pdf",
+      "filename": "2009/2009_SemiFinal.pdf",
+      "status": "downloaded",
+      "size_bytes": 111815,
+      "sha256": "1be3795f72d4fcf5c9c7ee4fd4077d6b8387c8390ac7e815ca1515a444dae8a2",
+      "error": ""
+    },
+    {
+      "year": "2009",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/USAPhO-2009-Solutions_rev-4012021.pdf",
+      "filename": "2009/USAPhO-2009-Solutions_rev-4012021.pdf",
+      "status": "downloaded",
+      "size_bytes": 286670,
+      "sha256": "0700205ff32ef394fc32120abe49ad25ce39fa07d296e093e998f4665539f185",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Fnet=ma exam",
+      "url": "https://aapt.org/Programs/contests/upload/olympiad_2008_fnet_ma.pdf",
+      "filename": "2008/olympiad_2008_fnet_ma.pdf",
+      "status": "downloaded",
+      "size_bytes": 80442,
+      "sha256": "2d54f313004ad54b50c8a968b1ca58d96fe39e1911468a5a5b11d5f13416b2ae",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Solutions",
+      "url": "https://aapt.org/Programs/contests/upload/olympiad_2008_fnet_ma_soln.pdf",
+      "filename": "2008/olympiad_2008_fnet_ma_soln.pdf",
+      "status": "downloaded",
+      "size_bytes": 65302,
+      "sha256": "07a3560f9bd1019cdfad07a1946bb0c9b9567abb5f7430a6500cb297f204e13d",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Quarter-Final exam",
+      "url": "https://aapt.org/Programs/contests/upload/olympiad_2008_quarter-final.pdf",
+      "filename": "2008/olympiad_2008_quarter-final.pdf",
+      "status": "downloaded",
+      "size_bytes": 40358,
+      "sha256": "cdb4a17b85a76a1514402939c84e39eae450acb58b1cc28454b98d2faf9cb55b",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Solutions",
+      "url": "https://aapt.org/Programs/contests/upload/olympiad_2008_quarter-final_soln.pdf",
+      "filename": "2008/olympiad_2008_quarter-final_soln.pdf",
+      "status": "downloaded",
+      "size_bytes": 88553,
+      "sha256": "30fe311063a25c81f8274de943397a3acc01130363d0c9a6dfc60013f20c5d3e",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Semi-Final exam",
+      "url": "https://aapt.org/Programs/contests/upload/olympiad_2008_semi-final.pdf",
+      "filename": "2008/olympiad_2008_semi-final.pdf",
+      "status": "downloaded",
+      "size_bytes": 102447,
+      "sha256": "4a56b4f8f2a035963647290653f013dc4c427c18fa84d52104caf1bb1e97524f",
+      "error": ""
+    },
+    {
+      "year": "2008",
+      "label": "Solutions",
+      "url": "https://aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf",
+      "filename": "2008/USAPhO-2008-Solutions_rev-4012021.pdf",
+      "status": "downloaded",
+      "size_bytes": 244819,
+      "sha256": "5a99db83c72e92bb075bea6ca7e5d815da2f86f6b2db3a2a23f66a06f576b643",
+      "error": ""
+    }
+  ]
+}

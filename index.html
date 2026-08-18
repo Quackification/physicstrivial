@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>phys trivial — olympiad physics practice</title>
+  <meta name="description" content="F=ma and USAPhO problems sorted by topic.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['\\(', '\\)']],
+        displayMath: [['\\[', '\\]']],
+        processEscapes: true
+      },
+      options: { skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'] }
+    };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <style>
+    #diagram { padding: 24px; }
+    .diagram-note { max-width: 210px; padding: 7px 9px; border: 1px solid #171713; background: var(--acid); color: #171713; text-align: center; font: 9px/1.4 var(--mono); text-transform: uppercase; letter-spacing: .05em; }
+    .diagram-tag { background: #ffd9cc; }
+    #random.shuffle-active { background: var(--acid); color: #171713; box-shadow: 3px 3px var(--blue); }
+    mjx-container { overflow-x: auto; overflow-y: hidden; max-width: 100%; }
+    .problem-grid.pdf-mode { grid-template-columns: 1fr; }
+    .problem-grid.pdf-mode #diagram { display: none; }
+    .pdf-snippets { display: grid; gap: 14px; width: 100%; }
+    .pdf-snippet { display: block; width: 100%; height: auto; border: 1px solid var(--line); background: white; }
+    #choices.letter-choices { grid-template-columns: repeat(5, minmax(48px, 1fr)); max-width: 480px; }
+    #choices.letter-choices .choice { text-align: center; font: 600 16px var(--mono); }
+    #choices.letter-choices .choice i { display: none; }
+    #answer .pdf-snippets { margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <header>
+    <a class="brand" href="#"><b>φ</b> phys trivial</a>
+    <nav><button class="active" data-view="practice">practice</button><button data-view="library">library</button><button data-view="about">about</button></nav>
+    <button id="theme" class="circle" aria-label="Toggle theme">☼</button>
+  </header>
+  <main>
+    <section id="practice" class="view active">
+      <div class="hero"><div><small>AAPT OLYMPIAD ARCHIVE, ORGANIZED</small><h1>Less hunting.<br><em>More physics.</em></h1><p>Past F=ma and USAPhO problems, sorted by the idea you actually want to practice.</p></div><div class="atom"><i></i><i></i><b>F</b></div></div>
+      <div class="filters">
+        <label><small>TOPIC</small><select id="topic"></select></label>
+        <label><small>SOURCE</small><span id="sources"><button class="on" data-value="All">all</button><button data-value="F=ma">F=ma</button><button data-value="USAPhO">USAPhO</button></span></label>
+        <label><small>DIFFICULTY</small><span id="levels"><button class="on" data-value="All">all</button><button data-value="1">●</button><button data-value="2">●●</button><button data-value="3">●●●</button></span></label>
+        <button id="random" class="primary" aria-pressed="false">⇄ shuffle</button>
+      </div>
+      <div class="progress"><span><b id="position">01</b> / <b id="total">00</b></span><i><b id="bar"></b></i><span><b id="solved">0</b> solved</span></div>
+      <article class="card">
+        <div class="card-head"><div id="tags"></div><button id="bookmark">♡</button></div>
+        <div class="problem-grid" id="problemGrid"><div class="copy"><small id="number"></small><h2 id="title"></h2><div id="statement"></div><div id="choices"></div></div><div id="diagram"></div></div>
+        <div id="answer" hidden><small>ANSWER</small><div><strong id="answerValue"></strong><div id="explanation"></div></div></div>
+        <footer><p>from <a id="source" target="_blank" rel="noreferrer"></a> <span id="dots"></span></p><div><button id="show">show answer <kbd>S</kbd></button><button id="next" class="next">next problem →</button></div></footer>
+      </article>
+      <p class="keys"><kbd>←</kbd><kbd>→</kbd> navigate · <kbd>S</kbd> solution · <kbd>B</kbd> bookmark</p>
+    </section>
+    <section id="library" class="view">
+      <div class="page-title"><small>THE FULL COLLECTION</small><h1>Problem library.</h1><p>Browse by topic, search by concept, and keep the good ones close.</p></div>
+      <div class="tools"><label class="search">⌕ <input id="search" placeholder="Search concepts, years, or exams…"></label><label><input id="savedOnly" type="checkbox"> bookmarked only</label></div>
+      <div id="topicGrid"></div><div id="list"></div>
+    </section>
+    <section id="about" class="view"><div class="about"><div class="page-title"><small>WHY THIS EXISTS</small><h1>Physics practice should feel <em>simple.</em></h1></div><div class="about-copy"><p>Past olympiad exams are excellent. Finding five rotational dynamics problems across years of PDFs is not.</p><p><b>phys trivial</b> is a focused practice interface for AAPT's F=ma and USAPhO archives.</p><aside>This personal library was extracted from the supplied exam and solution PDFs. Topic and difficulty labels are inferred automatically. Competition names and source materials belong to their respective owners.</aside><a class="primary link" href="https://www.aapt.org/physicsteam/PT-exams.cfm" target="_blank" rel="noreferrer">open official archive ↗</a></div></div></section>
+  </main>
+  <div id="toast"></div>
+  <script defer src="app.js"></script>
+</body>
+</html>

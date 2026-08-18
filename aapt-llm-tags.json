@@ -1,0 +1,3956 @@
+{
+  "version": 1,
+  "promptVersion": "aapt-physics-taxonomy-v1",
+  "items": {
+    "8a2df6dc60237a1553370ec0e07e49eca20ac8f2e97acb695a5f61ddcaf1c556": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "853ed0e2d4dbd56e43c67ffd057907beecbd9a48d529277e2a10847154ec9bd9": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f9dfccb9d4e26cb8f6d8a4d88534dad4e04b8ed3a4557d02f154a20912ab38d1": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4139213c8fbf7c11541e7f999f9b229e292338ec56fbe1e27e156c7033ad4d10": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "97e3266c6261ce008b0a344f0e545f0413c72e445e603398d26068c47dd195a4": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "be96b2f530d25d9d68850b57d63e2ff510999b768f3e3caa760cf57819419619": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "708c277dbd292d162bd29627dc4acd4b20662e3b755d292548513ed04bb61e10": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fbfe4289a66b30bc940c52a58505b7bb04468677866d35193257f3a7a3bff175": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "159960f67d550d55a8597fe60c110b2fc454156763e0941ea6049ca967169841": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "223a575699374e971ab90b83dfdbb7b709ce15b9b5e722572c1458ada872bab2": {
+      "category": "Dynamics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d5be7ce5b00cffcda7cfbee86a73d0a159ad5d682c3934d1f022420968b94c95": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "18766ec1719ec059c94c655c4cc6b13353d0faf779f13913f7e2bd15487e49ac": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "67d08c3628ed87ef6b1a23930cbefee15488d7aa4129a2ec0999987ea64c11df": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8e2ea14374b0c85a639ac0da7ff6262646de2b0b28c7cd5e7f19ace449d46445": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5574ee54dfa62b9b6f627012ef0ce07b0034518b48dd23c2b78764da618c148c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fcdf6dd02c9faa4d901f94f86dc9e11fe1b2a35a9cc03c7ce2c0465c775c5f59": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1b3621f1b845a9211e9c5487a38c97b99a07fc58a7e151b6183405511d3d2c4f": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "72b57910303b0e0a310ee86ad99efdd3ba5f342ab7c76b160c845fb7c30aa09f": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "71d7dc5c208d4c36402ec3a157c154033e7770d3a530ee8cc5e7befd5910b174": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9adcdbbd76ab3e14fe3ba2b9aefaa4e1451829a0c9e00d496b51fca6ab328133": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "73d230d5c34dc942a42566c55382e2a52362f48a5dcdaceedefcf9fba8b7ef06": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1a5d809ea1bd3aa3696fb3ee07f84dbe7eb7f702b255f686f735b82e4d44d5ea": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "91f932e5bee5439d9f0ad3eed82ab9a1c78a18b222fac841ade89d4ced52cf9f": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "71858716e94102edce05ff30310d3f808b0471f844577c1f958a341868c2a7ec": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0cc4b94e10782cc6781e89d2c5d60f7e5ff104304bda6d307496da5c6a2e65cb": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f2040cd43c04637f1ed07798aea6337e289ed3234f62136f163cae3ea2bc2e09": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7850f8564dabdd1b9acf9781a5ff3ec8b76527924a93a2cc902dcb4289610ecb": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1d94611966dc9464abc9b233df5f35f0f426fe63e1b69ec31b7a33c686cec6e1": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "07fddcf804a74789b03b8da17e0d321fb33d693d3246263590a71bffb237adef": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f8eec554bb26d4f574e18f7a313cb61ee2ead4dc305ffdca406ec7096e661b74": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "75a2c5f5797c3dc29a600f2f791f80f9e820f4165ade7d8f14577ee2816678d4": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2ebd40d22f47c9c9e9bf5fa3d75c6e33f69f827057c318f911865a3ea54f07fd": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "47dfc9bfa2e6ff8eb547f0cd8f9923a23c754aff9d486a9b109efa6fb448219d": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d36fa6871894701977eeab781aecf52e9b0d640320ffb8b847da6e32f9ebc406": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "375367da45605748702bae216457fddf9586e4a362fc6113dbd47a88b27ac533": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9590db5ea8bb4041a489b62af6ec91908f1ccfda2339cc4b8f70ef2b2ab6b1d0": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6fd6131cfcb921d9a697012db0672ab54967a2b593e507d26b3077f48c17ba64": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3e77d483c91cf04934a7628494dd7d21194a47259576afe3cfbca051df6c4f5e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "345607a57051ab73df81fd9f7fb03d886e84db03707f451e4444e13d2a8ab608": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "21f28f4f3ee6c6f1260b45809662d6474887dbfb9de1c234f315b0e8cca1850e": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "91b6646ca664488757da413ea51758b636634f8933a0803e509285df0cf483ee": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a5dff689bde4b93b83ad5a9684f94a38429922abac4cb536a8170b49f816288e": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4df5c2b05ee1401149035f2c12612d3599348ca11f1903fcacd447e222b72718": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b5987a6e732e594050a0908d0e45c0b61d387bcbe154127103386dbd0c680a0d": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0686d36975c1fc7f8ffb4053fc8c8f2af6d115c0a17b4daa5652a503760eb0ca": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "68117a16257279688e3e2095280a702852bd7fb90f65c52058edec0e549c3a7e": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "93d61c8826bab18f08d0c03d64b5f66ce045a45b68e7c9639166c6b1901c9b92": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1c092865deb963d6a62a14f6ef1d59bcee29cc750c6080f1b29938e555b9246b": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "50cb1831827361af1d4ae9157f231d2fecfe6b0ddd6f971fcff98ba569491ecd": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fc7fbd9005aeb00730d58eb15131735c7e7d73c579e4eb1cbd78dbf9e2f77ca6": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "18a03127c4c8fc6e2646752fcddef84be0ed578bd096e8952d24ca994b66df6a": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "93487be323b3b3373130d44104a7e2df797e58c1874803d33cdcc9b253b7a2e0": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "47758ca16ee019af9d7a21a91ec3a255dc5d1c8b5ef2e70ccdfb1733bf44d873": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "54a841245b6bd4f04e0e90037e33f01d3783d32843bea30709a0c5ad74dbc59d": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9332ee592869569a6c52199622c99dc4b06859a9da20f364014baa7d2d4fa58c": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "517654e7af6bd440a0cebf6744bd7400c62b0c28598eaf6a8445ce81b91a4497": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4f41b6021b22dda873561c2794fe52f9429a04fbf6b71972b31942cf4ce9bca6": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f37dd0cef398dbb3976e0ec07cd610713b56bae4f4af91d7e1a173c02b1bd75e": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0ff3947ee59fa25352d0cc40d599c2a04def2fa93628c14cab4e030b7ff48f98": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "780cbcc46f96a09107f7f0b642e16f96d9e21cb3f872ba79aa3b9d8bc4c33f58": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "709a47004d7acdb2f6c994b1deb9b580289db3ae3444fbcd1220516d1a77eb7e": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "df1515e9d4d8f55336d5e333a11e64801d6ceb28e1d38622669d424b6bab8f26": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "db00909d6673bc31c34014971f86838ff82b745922e2b810eed982962d2dcccf": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "afc43af5f6bf09245fea7f1c7a23257b80b02e8217a3caf3c869396f6cd8e346": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c5ca5eef09d791434de29e787e8bc4c91bccf091491fedde2bb6b57a0f878e77": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0b859e900c985e52df9c49dde71d64ceff032772ccaabaa617b71fa72bee0401": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "189783a8d76ecaa93680510cc67465b493f5e44731bdc747f6c491a728dea78d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "425dbafa455e7d4514080e89646942bd95c8200cae413317549e9800650ba0d9": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b081592f0d618a21c511d9e34e2d692e5bad63a5e74d47d8ce0cd3f60cfe081c": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7a18665d215e1449d7b9c96e5bce743a5bff31f7e89849d094b820b3501018d7": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c953d61b32d15189fe076f723cfd3f64b71ac926dcebce1290e18a5998b53a90": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e819d2176af18c5e0fad7b17afc2645d29d2e1e59bc4296c3b5e2685336ac195": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4bedb09c0bbd17c60c0e302aa057537d6fda36f12584e43d4fccd2d9a11bf374": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "134891c7e3518b83702024139ac7ecb29331b3cdb2e5d9a896cb1161193dc32e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ebdf685f6f267defda1199f0ecb00e2ddcf870c0d4d7f9d904028c185becf46e": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9b8a70945545772974da92f3d5ab4ed74b8d2d011eb1ee42fde8f7f96c29981d": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "661e96e96045a90a8732687e599be38b8972b76a9ec5da88b06f46761f23e20c": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3f28d3ca7b1f9a12419521e362c4bcc13987d7f3f54a28b5aa53690dbd03f94a": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "639b0a464ea2feb6241a14e3b9b106bd7759edc147adc263696a88724e08a94a": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "36908ca6b956515aa31544dc047c3344b46d0acf7bc445d21c562db2e4f2ee6d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6ff549d2e09da7df3de31ecc8ecd752cbcf403d0a3de63c8a78bcca6b1f9f1c7": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ce750cf3092dcae266925bcc4be91ad6e09542c048dc89db67cd344a3b747244": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f0bb40732cc69ee0b62d4d41c9c11ef9a96c3791176acc22d1c081226b7a9fcd": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5fa916120c5c8d3267c0ae6f0804207c4eaa5cc2763e9bdb8687544058e3fc9b": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "268ba3bce7b9687a07490be0b7fef3e3f2b97e52c897dc69c97c49b5e5ad8c7e": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4e1fb756d5697680b455de1cc278c6c703473b08037349b49c4593685e93425d": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7ae4a2f041cf1a8a77837a8985386feae9370644e8888b27aa6e5996d6bd4feb": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "59fa814d168638ffea5c427efea4e0862c92119d8429be1099ceebe16e6a4e23": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "624d8d0dc01ccce6332397e2bc3e5c61f82c799114621390bd721e51bc5c534c": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "74a7b76f9ca8e9b570688e8981f0f91ffa7f44a0d1ec448a00d312d63e42c04a": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "693d582c0a516a35f0ed65da55c92d1bb11c55d3346a04ad56e41c7358bbb96d": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5a6fc08609155418372dafd9a62b49fc685edc2ce2da2ab1ee907492a54e5e9e": {
+      "category": "Dynamics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f9397ca2c34a0d0be6521a70114c0085beefdecb511318343e63def2fac7c327": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "40a0b309c1198fe61accdf69c8ec3c16738e82168a05dda08d83111093560a34": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "53ddc10b3883ce5454d2204ab284eb3d5ecb55d13293d13a88468fc163f124a9": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d3ca5a44f531d467f118d90cffb472c76d57c8e0744216023c032dec4032097a": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "913be6fa660927e291a9e2fb1fe9a19eaf24f22e6e2f14b8f2d4826d1f6f0d87": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c6860d12037eb1cb5352fe8fb9419221895d1bc55463469fb7499fea08493cfe": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3c5e622eb0353e5e0cfa3fc787125d9b59bfc05ff1c31f69e681c724eeb82cd4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "720f7032c7923909f9f358bfc35bc5ee2221106eb5aa1c7bb80c56ad591b72c9": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a048a90e7fcf0f51510301f5f0519fc156816ab3acac1fb1a3bd0dfbf2c2264f": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d55fb8b95e099bd27d099c303e2e2d61cdc6563f9ef12ef22730b1fd5709a96e": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "00fa61312f4c0e772f50cd9f7b0ad3178ed0f68826868fddf82751776c05c7cd": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e39fe4b964923ec77edd528a616ef090c4b09b540af449b3a1d1d0b4f423b31c": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3c2013d8930107c28891a6cc09420fc40e7f6a659d75a47de2dc40a8829468b8": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "800f94e25535d7d576195c2603954b24f674d5657d4949279af24d2e43fbb863": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fdc0f3d27cc9a149faddfad77d9feb97dd954ec24803466c31631dac4fe414fe": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b6c8b1d534a4e141711b62c913cda764a6436cb449ebae140b3af606e5f4446a": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8da57b0796e6d0d41121c1f8a553df4e1abc517fd2cfa98daa9828620ff31ff9": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "95b727f225e66ff6aa2ee17dad5eecd2d0fc173c4108d7e8e400f0ac441fb3a3": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d3208cbe0edc687f86c91d7cb0175e0042c31d1008021fe696b0fc45433e69d0": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b2b4613cf0f44e44f45ea14aea966463664c934b86dc8926294d048eebbb1037": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bd0e20d72648976fc6ec4f193a4f6bbb5954c594d37d74fc343e1c3f9d22bac5": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ad50734a6f390640e723763effe481561899cb2bc5c97e901ab67b8d9c06f50c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a2f29b840e1f6403834295b3a7186b81d368071613876a120baaae0b8ec9e7dc": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "45703fabcc91c974ee2054252b2c9a33712d2164128fdbbf5b26cb0b6f242d05": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7349ebc58dc665d732c5d12606a95a8e4a90ce6527c3d61d70e7fd35936c6124": {
+      "category": "Dimensional Analysis",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2d04c074e11d8615db14ae9b94a67f96c7e6f027b4dec1e8f3ad569898d0562f": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cedcaee325c358e23a1d012e71f031fb3d1aee362f569a376a29eabe7715547d": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d78bd7bf3df0d81dbc98067d454b938d3c1ea2b49a20387234222d8a80a52e04": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "dcc7c4a1feb0d99365175cdbbf476c859e1006bc3791f6f2f2e9ab6f32f178dd": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "48c527ecd9f8f32646d1dc80d38ae2f294284397d10bf26a1c922199966b12e2": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c722070f4b206c1312c8bcb2b843dfd8f32e655ce02c6c47f9c6c586f9c43199": {
+      "category": "Dimensional Analysis",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3454768f6a45ded3122e12ef0c8a6948cc26865245b9ea500d79660ac1acda42": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "36f68ad12a9c2779b19100f25bf4ae0bfeb5f4893905c83b6bd2cb83e6e67cf2": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a37859315e2c77200f06adc8d2921e1955b9504e8d2eb056d8dc4cdcc21cc563": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f8ddc7234c7f0be34b930bed1b9f6b2d7f2ddee6894608cfcec679cd761bad2f": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3211e15dd0c235ae1d04c1183131d29d4437716998f57075464d442c9845f352": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "273a8f794488d61b6ea16f54bd40eca0389e365f428322c920fb012dc69e92f1": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4479f2554590fffd0cb69941f94742b4a7928892bb3cad15d4c39f8c368678b4": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2ffa5f0d2a1b4d142c7b75428c3d072b0b09bcf6caa68fbbba0dcf48ec2c7e90": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fa2d2f43fd81d79fac267c1fb0f98ddfb70ac98a6e143f33a2539bd57c4b8ac2": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "56fb9af4b1c9fbde671abf7be054373c34359478dc1921453cc65ce6efac31ca": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8b1017b78234fdafd7269238d9eae2c9ee3b5f41216f976bf2d336ed3fe01e31": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b609499fe3d46c606281545ef70794878748edbc783d27c68fc496863a17abec": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9487a5408e19f79dd3041e32f7f1d13e982a469d154902de9247a55cddf609f3": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0b12acd9984b4493f6300080f8571a3ed8e6662a4c1eae73dcef321754905944": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "698e8278ed6ca49cdba8df711c31d2641ed981dc2b3922bf1ca0263d569c6cdd": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "573ac6c52d1d0002aa2e7167d5e92423010e8dc1f5378067cb92689138f223fa": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e529002f15939e981b61d274ceeb6befdd1a9b5d1be8227b8b44845e049cc523": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "113d886361ed73a619b0906f2a093af2ac3e8d7638f46bd170f6ff57fa6c7b7d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bf39bff5d5a1c24cddfe15af59044f3d77ca9c0b6d3213598ebc550a9b3213c8": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d26263ebc3af08268f50bdeae22fc7d46b6dac7f88ed3849e0b522f4660772ff": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c4e0d9418308a32f9bdfc570356b73ebe2ddcafea4c024ab52dc76e8721f0d9d": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9348043c44b17c33feadf157f5b63d621432c25cde992bb67a35944405825a9b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "af3a67ee52cc35021a5988c2f1a039a104924dc3af062fa541e70bdd24ec8e81": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "61f293473cbf8431f273796306762e4ca35220acf856c6d3df91c4b683ebfbff": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1076751da2c3ad423cbeeb83dab33a0c130edffd7adf823b85c8d92b5ba1d609": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ffbc4411b8335da2b428bc8047fa6a06f3a44358b8b7e6edd1ccb71f13d4b2a7": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ac17a6f93aada3c16e25a066be9cfbf6441440bd2f5a461366c9aed4f2079ce5": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "61641d9e8a0e3809f21e86aead21d09dc936808f65ebb1553fd4bbf24488ab8c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b49b22e0ec5e7acdac1c1c6742d1e89ed1cb554a9376a423e314c2f754f2f4e5": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fb6d8d086c3b5083409644f7426f4a29f9a9eeb6df14e83e93307f8b08881a6e": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "11d9315ff681c069ca7bd210e4ff8009f21109ed3d80c811534b3806fcca7411": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5fd000c05591229806aacf59d4a266893feadeb9a86cf13c745e3b99f3bc9eea": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e5ac0aac17e6a48582495aba0d6be5f90eea2d410a89557f8b5a7da0ff314fc4": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8a36efc7c87835eba9e279f3048c5547c69305943758703578cffd8f1a89741d": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "934bb5cc679b834b73789d9f234e5166d9f2c17e8174bc0c35d24cc05542aa7f": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6944da2c0d8fd1258cc2c454e9f2090b647b5ef82bdeb195717fc8a759fe3d6a": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9cdfa795c780c7dde88d3a9f8a4c2e2a2167950a1a53239f70e8659d3e339f35": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "266318ebc6a8e26926fa90be5bd88d1c6808f8f78911900f8ec766297592d593": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "72d4d44d0f3231704d6dcf4d1f1639c25ec70e3c9c536b301b166e630b153f02": {
+      "category": "Dimensional Analysis",
+      "confidence": "low",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "13f707b60fad9b14b0b79bdb8d020f3fb19121cef061a9c441ecd3031aa1db8f": {
+      "category": "Dimensional Analysis",
+      "confidence": "low",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f848653068ab3f566440a03e165d460721bc95ed89009664235d5f0f6129b5a9": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5a6a703944706e70be6127cee843287ba02f114a973416481b20bb9b7ef6051f": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4d2b96f85560b9bc915a1aacdd2f3a742c1d830dd913e5fc17d172c6f109d38d": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "93cbbf5e9bb59abf6e6b792e121216b23ae642d66bbd8bcfda7eddd2b55a450a": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8b8dc7c198fae1a5ea1a84b0d6768ab64ad22125c3409e1b2d3666ae05abf35f": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "650a2c6a78a2e90b5faf7dbc95314a9bbf200d1c7d7334cf06efdd4649bdb2b0": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fe7f624b6eea41152ccd78203fe3467d774d3fea9b52a092372ec3af43981172": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e2002c4183a1a31b995bcd167dbe37a0f252247e759862d13d51ac8bd1428dfe": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "06425984140c709bf37b04c0ae19d8b7e863b01f0eafe7eaaf9e8ee4bba06a49": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "06bb229e3f244512c6f209b0255127ed32697073cd55f3a5ce9fcefbaab0d950": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4c8b28ffa878c7592d05127fc76ccdfcedafe8d74d9ba0c0ea3ed0c9b7bd6dd4": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7b3b303f2b6bbdcba08b224b3f71b5b86a51e3e8d0d66f149355fb7c99bff787": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a82da003fe80d91ee6c9649edcd77b018fabdff642ddc2af2ab35189439ef897": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7d27a586511f58f497279efe397a532b114b15d38594de7c8ed8f62bc5303760": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "61cdbd222721f15f475ef598e5fd9694e1390b4bfafc59da28360c8ca16623d5": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5c122b9907686884c1bb1cc3a4a1f849b76bf945ab3db452d9b0cbfea0089d12": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4660c7bd931fab26af9fe98e11c378d295c2abdc6fe59b4e87ccb94bc8175bdb": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "20c6f3859c66c2c9d1c2cb05eda24f81b3664f5c33d3f7ac8f1827ad7e4afa5a": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2a4edb942afc04ccdd8e77c4fc78ad40affb942bad16e14ec21755b9694f6814": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e495bc39fa0e7be8038fbaa86161b9aeaa970b961a2471594dea8c443bf7cf7f": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "84747d63ae36247845315202c920fd123110636d76252035eb1973a4ecb14cda": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e5eb00ce76718494df94b1edd5cf7f94776456e261e9933c1fa48a8de5ef6b65": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e36dac28fb54f6aa9f113269bd9047668e3927340e762147437559da1fbeee3c": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ee80020685bed32bce77f1fb29832418ed45e23b268d13b3f3693bd00908d8d2": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1f27c9c1e6fb665d2a7c1c01b2657fdb6de9a42516676319d9d537b2dd8b819f": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2250e91970de5132586b7090ae17ec67a6afa61a28e15bf765194d49910c5448": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "00c7f833708f4830dd820eb7530a3b49724d8d3270c0813e294db9114ae2a21d": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cf27268d1ab594d49071c5b4dcbf287b500ab2e2f072fe4825a6367095fcc676": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "da3d913e909f0fa2df3ef15a88a8c8efeefd5b7c633c0e180c0ede28f8e8843d": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fbe13c2ea01fd2592da9602ee6988d142bca892302e7a6d801e5aa21c5bd2b20": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8abd4bbf6b8a8ca4a6b284f8bdd282bba0ce4a0601eb11331bb6b76b9326c370": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "90faa9bca2e9f46ad8044d5643fb2a624db1c8f72108cba607dbcd019a46262d": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f1b7408a2603c29ed616d56c2885dcaf796359d846c015f1049a1e25cd56c2c8": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4671eeae25351ee74744027eaf9fb385c6c7ff2d52a219208458d1035da5af32": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d2803aea95bb5c7f26acfcab7993a7ff7d1b01a3f2a5308ba21073cc68b25074": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7ac3e3e98d86147c365d30e937f090779e545917717b33f1d8bf77487443fcdb": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "88525a749b49dbb95ce7a9429c136a76e67a1515937509b3fd33d07d52ff5985": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5aae1ab88954aa69183a2e1c7c4eda9ac778a14c8305c7b849b7c4415e94be6a": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "71049b1978372bf43f3883006b8b2ba0ece23257ede17b05a99c78e38785ed95": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ba60c893b4d7b87373b5e0f98b6ee94a7d322a57046a297338ade37aa04a4aab": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "99b5e7a15e2f3f14facfa2d6ed9886945617df1f42e59bf888cae121df425f7f": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "17857473a9b96b08c05c54498bb27d10a6039c1e9f4e00aba5a0e9fe9aa58f7d": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "02895f9dcff47268ce0399d08b9481b8486499a976b821063d7228adeb2f69d9": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "df40e7be8c948d069f9b1cfc9b10fa91b3957947991f0bf3dea128568ce2aa92": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a464208f3f8f41e1fbd19196f12540549d18dee28adf30786f346acc3993f05e": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2fafcd68fcac16c44e2984420ffcc1307450c7c8ec2547b59f461fafbcc454a3": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7daaa8c595829f38722ab551e4189de944174e467012ce76f520b9978afc1498": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "30fe43cae436298165bed927183bd192a736ebe5fc97a2dd11f8a9e2a9903061": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c74d194d40c4052bcf45417dd2e2eb67a41d16adba2a1c5542679d15940675ee": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ee08f4af0862fa3aba80d6c403fa81f1028df27f3acd567688d8b317747e524b": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d195987dbcb7a03e0393af9d8bf78428dc07f0d802722b9bcfbd91b0e9b2a13d": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9d48bd5426651be2870d4624941e76fc2d1088ec85104e330771679557910d62": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6de8a4c983ddfe84adcda33e40f47a57803357a372ff3f727c6d4af2922fa92a": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1fa4ad0a492494a4068b850ac803a5c0120e49f71b8f8b5d67da2f7d763724b0": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e58ddaf52d97652234f587dd75c7d1204c48a126ea575aa9dda549b6389b570c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "683087da91bba12088e400983d88c2db4f983090fd51573b7a70396553fab287": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8a5380f59355ec7a460039e26ed6fd7d5a92b0ad69bdb2042550b0d62ebb572f": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9528e95dcc5c776c9c23480c923057f8cfb104a0341aa5147dce6c5ad324e6fb": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "255bab86773b541690eca7b18d51f1cc79c0b84ba5c55b9fb3e5387773fb4732": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "51705cca2b8b002d990a21d8cb354edd98a626ca274268d6ec375d26042d3bc8": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ed58279075a6d3d22abb26cf639d15b34f754671aba9917d9e3f864027cf05fb": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1ccafe78b551bc57701dc11b26319b94b70518da35e5a4aa04626fd27036618c": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b66368d81742b73004b705974898a50173e24c8cde466caa071627750255dafa": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "13634466aaa3d4c9c3b37ca22d3c04a2cf09565e3b243aa98cc4a892ada45169": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "135cf79868ee548e590b7c594edbd9f041ce7223d4793c2baa97e44128cec5f0": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9f3186dcf0c8b987cacde3a8b21fd3b677cf76d9d9ec12447bd548c9ca08bdde": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "547aa887a6ac9fe0ebfe1543a9fad416a63cafa95eb926f932c5ef638c9a0b73": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1e8b5400427d00ff40ab26855e0fcf6b670a42181bfcb877cc84de08ce695fc0": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "62bdc44294f543e28fa17034dce0c6b2d1fe4f7d84731f7435c8735ab4f2cfb3": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7394a2caf3102f4510038c20014639f701e897860a5b93a4946d9a1f34ccee7c": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b6ef210eb48f2ce0725e4fc38db46fc8a02a50e55b0ca0ef45c89286334abac1": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5ab8709169e4aecdc5fd29b69a2c42732114759a676e2ea61e049a10971c92e2": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5a0e02a96fc171340da8f81646cc8f72154ddb9502d9edfeaeaa403b7256f771": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "216875c0b121fb74ec5443935d0d6ff6c12dbdac2493580c14f210ab7c5c76ce": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "762a4d505d9153291a003d8f22b52c6153745a682c437e24452a72d36bc46e54": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "007d412519af7a7d8e1e783e9a06c3894714261dd68c2850277c07a0673de271": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "baa5856d2cfca98a45a28917b33b05d28d6c66fb3d37612b0bfe28fdad21722c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1e4adee562eb38f2c1c9e7c86a847c1ff8eb6782eab1a011b68c6a7b8f4a1ff5": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1b6b6264f77f56300a6779ab02b8ab8759cbf6b52b15d36379fc881e21e8960e": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a52dceda360aa45845a0d5dfdfd439c239d33b4a6cbd7d71853497c501f2d833": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "799c8272e1a4a1b9e4654f0baacf2174632cbf95c2ec3935a2820a462a0af37d": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fc98ab9e447a69dc293286b9abd77766286585568f34c15a1a2563da626d3dda": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c4cb1033620ec5c8a07fb9e01f8b3de2cccf4b23a525888e86fb3b2424408bfb": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "21b8364a20faca1fd79d8bf854ddc4378933f11a5102f5818c6f718b4f44ab2e": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c3fc2b730cbfc2e011304f1b7cc40e15e24bc65b3bda786b148df08ca8fb4a77": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f505277c55a0ba3dd39d3cd949c24b46c5f56263ae2ad8489ea478e64410b96e": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "edc373394c570ae100e2cb39b5af7f75516e1a399a0057039fe953be37c6be19": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7e678c23470e85ebf4a1a2d4876f7390c280e565e95fd6d10e3f964b800dfc9c": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bb16b1ff3ce1b7f2191f534c18c4ee52e7612f59afe8c065a6c2a600198a2977": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6cca26253f387b85caee3ea9ddcc7603a7d7b75febe650cbb7b93e8714ac3518": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c9c20a76c78beceb432057c5b9669ccc52f94403137fa6b1dba7cb10efe52962": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d8df4773f833d8e67e1d7564d0b90136d2d11dffe4ae33f9d90b406e693b44aa": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2c43ead4487d3e4c1f11d3f8ecb9c43f05e6f97eb8e15406f3637c44370707a1": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5f7c72235500c2d37b84e13aba2a335b751e1307b7fb064b1e66aae7bbf1805b": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cf2c1aa2dfa0082871b3d7ade192157868f909c8e6340af49e2a8db944097a12": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4dc10017f0f1d0193756d9b5949906fff5ba7943bd1164a85389edda2dae644e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "758cfc043ef6bfa639bf14efe003fd267308d362aa0bc6167be5189936572ed2": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a0f4b4fcde18b2b11dcd0ac4261fba4a2d7f97535d1fa05bfbff85b2bface75c": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "032915b8cbbdc84d19c2e98614ffe5ca34ef57d8a9ac85b2d4630c8d001eacb6": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a165868c6be1281dffa16446c76e97839ac512753ba5e3174087adbfdf1a7087": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "119474adb90910422740485705a33ba646166edd764410892067981df2a7eb7e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5425e1c19517aa0c1e28d4ed517f80fbce628da53d86e568d8438d8caa15bdaf": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c9594cf1f59c857bc77fd42e98cce62e5d3014edbe79862103241c34f3fffbd9": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "761284d03ffda360dda21dba8d97c4bc043bc52dd584e5d1ca75b979180c56e5": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bacd0b1140ea96686b59761060547b71cb2ecf35196012bf159a83d71edbee2b": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "751b91d4a237ff3d613fe2a86944039498b73baa513f7eff306932be79e5bd6f": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "84b766a6f66041f0d6abc80756018c9ce7596f4e580db01b7d6e50fbb5343df5": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "71ef78caed63aef1a2f61ece6c45ed174ba9831ee3a90fe56f637420fef67c7a": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "89b5d45c26f685a52d09071da56bf22a6ad85af41023f770a626db704c00f68e": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9471622879c6757ae0b6a0e2183f8375a72cd68e4103f1196de03da9ff224333": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7ac08bfecb237d87eec569dd9cb8f388df1b063f5cf3f426e6ff31c42fc3aca4": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "282855c31304be43cea40d38e70644970b6320a9fe6732036f2bb7db50b7d07c": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "db711dbbe0b3df456380b82a4a9b703f49eae6ed2b3ff72c2cf31b26b3ff23b7": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "68ee813cc3751c89debe333d51498d72548de72a9ee36292750a8cc2ae7b5025": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "832bd5aece3055e955f06bc6334ffbda9e5cd87f7d42e288bec452df89c322d9": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "395cc2e0f2d5c18aeca0408ae3b7b10b3233990dc593b290e2bd47257de9ac0f": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "62252c407c1772500d108179a3dc8942026f09e5d297ad863c9b4f2b901a2e9a": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "dda5c543a57b17fcc0d834c213f2bc9f97e8d6c3d8bf96928ded67b14458d47e": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1623d3ae167f43e2fffbe85c59c91789747a3647ea07f22ef94e8881fdab447f": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "30329f92de4ef4e6c8154bbd095dc3fa863af78f1396a780a4a455c2cbf4bdb4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "57d797a659504cf8efe736a640c1ca242f9c2bbe30910510eafd55f5e2b893f6": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f802437de8fb8adeeda281f62d140463d59946c742e0f6cfbd4e47c3053cb88f": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0463cfb7a5ade5b26135b4c5d89edc4effe12eb0b25f358e9c7ea82caa394e87": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5dd1c6c009d0b059818c74ab65209fb827d36b70760922be86c2048bd879618f": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4203608556959f9f949906ee1b73307bff37454f0e9a740d0a0f6a3bf83542d5": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6258da0ab61627d7514a059ae9aa99f0a643723455778c8c99067b06f9d86990": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6973ac77f09256fe77500108c15577f67f912e4310a30e985da1e9c0882b997b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "98a586127597340ae94597927558d2db7d7104a6dba4e229fc5c8c3bca216fcf": {
+      "category": "Energy",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "464822c43760f0ca9859ca687fc0a338170de0ce552916e8ec032cb88b7af147": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b66af828a509278c992f02b6ddd6ee62d630fd32e204763a104a262e3de1b649": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c6dccbc929ddf60afd852f5f19adfc546efe7cd861c406cd0ee29204d0909ca9": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ec4d5a16550d6929f0c6044757003e0136265873d8d07b06193b11621060870b": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d82c3df447c153be5dca5d1b4b521d9c4bd6d4aab2f6438f9782b3b13b402d25": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8078019b3cca7b12175fce42e40aedce7983ad8250672d6dc8cb39b4f3157be0": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "da3e89cdd6d01f8d3717530a6c1e8ba4957b99064fdbce88ed5af2f7f2547e42": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a0c5c76aa7711372d09e30a81348ff1fe72a9860ff67d47abc9969c0aa532b15": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "baef32ab2f70ebc26b9a8bc36ca7e0465c1db3ce951dd310fa745678d7cd8d2b": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ad1be7c6727aa2f38a750a618ea7ec3a1dd447643fe1e755290b83eba32f7269": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a0f0ae21beaaa2dd86210d8a127b7fc29fdfde1b23512a65fa171f1fa3c76dc3": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8d473b9c1791fe40301ca306bff6ee60361df212e517e4a9b4ea52f61b6a13ef": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ce14bd9e3d5d05423786ff02093f002c01aee2116150f03fb6c69f0b7319d49d": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3fe6758630d25c1bd3a4ad7aa3a5cdff0f13a324698658d35768013e552040e8": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6b38241de47a1a97d49b4e6d3184de3742f04f44337a17623c0ec13cf188c4d1": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "304cd91ebd8bb242c4fe03cdc9e8849376bf7d95b2b01689e76c11bfc7fbe2c1": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d027d5ba0b868da2a0cc48b0253b104673d3ea9c1d7b888f58dfd3b49365774f": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "40eb74d6268cecf4af2e3e99284cbd85f6ca550e7b94fafa3d6b27df570b385c": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "97c2c1f521d35ea3aec1f8bf5ab9440a544bc38d98d12a4e175e0f8a7ac95553": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a2a80cd3ee60c691fb417ba377bcfc606ba85b933379584ab05ea00daeede7d6": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7047eb436735d76383e5fdc2ef8e05a9f519dd7bfc8b21eef8ef35795087e120": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1c2ca8a3a4ccfc8e0cc09870f44a4acac87b8b8ef8fdbc94e04ddb2d5d38b950": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3beaad7a9091295224084edd64713b966fe79868c516d59fee1a68c19347586b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "01cc1ebff10fc824a3acedb008d9e1cea6289f97193beb49003e0ce7d321a8b5": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f6e944c241c3a3806705bd732f1f0af0f2d3fe36d597074cf00b33d8a2ac9f8b": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "79cc36101a54855cecc87da14310c7bf0c7d3cffdc9e4031a595f1a7711a82e8": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e062926ea3635b983edaac5af14a6d951961106334f17da2c0a04886b8fd7873": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c481c934962fd8aca8e4bb14c7c719577444f556f403822b609d4065416ef287": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2d451f293e2453738a709c102a09abd0784bd351e51df8925e0ab61ed657a4d5": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5b65784ce38ecd3fadf3583f01578f3c35c41b72be477564fafedd390540ee75": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c8b71fbe2731edc763886ac1a7adf7c621b646c53da75e3d9607f29f955b1d6b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "252232a835609689ad8f5c9afb1330c42bd33783e4eab0f72250a36be2829786": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "12fd01f3a61a8e727ae1dbc4be3660af28c6a8c1a0278a124c60b84a95ca2c35": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a9f0cb1bdcd898737897d429872f89e8c7f50f05426f33950f9bfc5013878558": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9e9c0ea0152b5dbe21d06189790402e695c57f4e1d311b5ad30f1aa0c81ec77b": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9901f53e9eddb5a44cc5d6ae20c36aa32ea71e6f8102e50ff7cc79cd207b103c": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bc06f235e3cc38e3fbadaefdb22fba8b60b828261673b16a6cb4ada5eecda791": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "383dbacbd3e62a57c728e80a66acccbb4e4c1c2c418f4be678ae2a6484baf54a": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a05718f3891edabbaf4253422ce60a7fade1eabdb90826a2be6df17344ed8818": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a7073ab8308081e5585fde97626bd9e8bcb42b4b857437f0ce109c09415268da": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a61b7027895c49297e999d82fb77dc79245e300c6a53b89b70eb61683652e166": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e744e1077e2d0510ee0e834b901c2ca591b09f6600121d92a69c79e946700235": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3f56266a7a6a50c91f269a66713060fba529eee73b50114f500ead1f788f740c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b63494d577c370e52d4296d7ecf30674c088aa7176432cb7392831d36f600aa9": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "258787256ef3fa94fde49786e2e5d1425862d9754d48640fb8529b8a68a1c777": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7e388ff3a711fbb19df187144a58afe318c219c18896309be36e26a8bd372d33": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6fdec90b0dd3eab1a68f3f964536355df25a4bcd5f3602c1909b1ce688a72917": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "da6875af525823e3f7edec74aae5fe552b334beed2cc0b6379dc6b5498055535": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cd99420900fbddd7f3c2874a3c4b81f9dc9797131c6d86f970b6bdb1f1e6ecf5": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "656ce1b250c7056fcf22d52aae6e59a1d30c426f773664d535adb24d9c265541": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "55bd167d492381f7e361ba17bf1e1b4aca46586f9a7e0187b5bff7cd0af5c8a4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3872ca894c5dc79c33ddb4739dc1bf9e03d6afa7f1f42c03b0b7b101029c3b66": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f965dc90e82ed665df9b4d591fda2d61e51888282d3a5267bf58428840ce53ee": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d8b108f553e18658bcd531b60939c58e3c934225dc2fc11e38d42c273ca21eea": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "80b2bcb1162befc977fce1a8ca26d2076b7ffbf85fac532e00e75208c1fb280b": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "84ec9603e21b6468201816ce1dec45a9e02d568545e3a31a5f2ac82dc9c7a8c2": {
+      "category": "Dynamics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "15b5fb134419347ed4604c8e68ea606025769d2e7bfc658b652e90e126c6837d": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5da5ce5802e41e845f15f2f784629ce6c34c55e80056c702c665c6db31e0162e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "825b82e753be2882161f9c91b09d286aa7f5d406a55d146db8a782189b673368": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6974aed3666db4f3ac0413e350f2b63fb93515ecd2c6496c55de4c71632ccadd": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8b55f01d4a9f7af639bca535e0b55f80dc7fe2ef5fb26361e81f4441b579f8f7": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4c75c47b45d86be3992a0f0576f7f8e03d6e7559d35f87111ba9a0ab4ee98779": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "16595e6ffb3c4a0e7a2037fe67ae62e24e1d0a82d2f4cf3aa7562c8ce1203471": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "659ddefec23bf26cdb08f5733b948aa332a985df86b1bc2a6a15b821eb4755f0": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "19abc9ac631b3d3772636cd6ead4980743c34ff744c03b9658afe9084c4e02a7": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d4e03c99e13a5c9890fae561c47edcc87f9340342ab007a1964c195541e8b715": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f37edeb06f7569f75839e5099d7b66a17428c5501695fe8764bc2fc117f77a10": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cb4e339dc326661bbd2e4b8538eb5053d35916cfdc1579b0deb1be94a94a2fb6": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "454de5b54c130c6d746ee893316c09dc427f2af36e620a044748b86546ddffa1": {
+      "category": "Energy",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d42ec755288dc8a7448921943ffdb3cb71fefe51352b49ce34a81d05ddd49b3f": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "921ad073f6e8dc3d39b156a16d5067b5e653a54704a577a0485c203a7e37877c": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "41fc5186a5b0af0a7d4d246eb25a5306ea9adc1389fe9aa12e1616eca0a653ba": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4488826a7883d8ef5f093b48622775b0d8a5d613539019663177c2c3de5c7314": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d620dbb74cd61b19b678f05e7a48c085d9e6e0843ac56e3b3f9b30f702a86dc8": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "295da1e2e6eeac126277edd6a28a7f13ac811e62903296ef6e82a7720fab4e69": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5a911dd09aa40ba270f81e10bce3e624351c72d49a19d27ebf30adf841de8365": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2f0a2eade72098f8fa3e3f82c58a46621e28859066f162f4a29dea55533fb293": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4ff8b40e86269a4f07615d1c87a451e25fbc8c824ef5d80811da82254a4dc7d4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f9288a9386fe61cc2daed1b1fc2d79915971b6187c8735124e43e4abfbad8210": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "afc98ba33d036a4f83f9fade1eb2cde2049af33e8c41f80c246d2f6b1fb79243": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f878e1bd04c3bc9ff8ef20fa07c03ec29bc7d9005f7262564500a52b10bb4808": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "29c6bb965c81621db993b81641e838ee17c3bd2a8ee792fa821212750b1b3076": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "97fcf10e0795700a3dd3ad03e630f37e979cf9e46ac066fa41a834a584ec56be": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1400bb304b15e63116806b120a4d0fcd46388660f5bda419cc6f902ab30634b3": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1081496ba1665de081e1c3bdc88e7c99147bd3fc3354b3f8baf9ada3f51f9339": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "aa0e309dc8e53ed38c1f201ba1fb8e94c3e3970f4f5e5648dd8ed18dbf2e9d83": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9042442f489de3def7edd4288dcc687ae731eb8a110385cf62c13c89ce8e7a29": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8d2aabd52b25095207b162806ba51a2c78c75b1aa8c023187f7ceef70184b802": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "404991d11c0b8517c63d7bdb9d2b13330feed4774f85e8a1f07e3efc7f277857": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bc6737794f5d0e3e5c3c3da36633297ed37cba2308e118a0cf4ccd995f38fd26": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3ea9ce4e95dea12fabf367b61909211879d8d433f363a49ebf9bb10c02f57033": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2c32f2dd8cb8e1be3f02313afab2da9aecd1feb7e9b11217e9481aef6e86697b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c8828698f765c098936daab79059f726688998c7be2a206e21199b90c7040667": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a0ea20feb2d071e7861885a4615559171c4c34d031418431e2842a9631f4e9d3": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "78005b99bc8945f0718069ad699d4898d88dc9d1f2d9617924009d1154049f46": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0615c02762d169628e0dd9d19a166054267b51a1f1d39cf6375696c4edadad4c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ff966add24a3a7ee07e30d9ac38b1a3eeb67226752aee8cfb7d37c2b78e29758": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1cd37f8062ef01116ecf1df0753bcab8f602eb1f2b912794ec295f0dd4471f6f": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "838e46a2ecf33694f6120c0f498950bd535b2f2cae62195c5c8a091e5bcd5001": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bfd4cee7a5c4e9a507b6948993deb4d39f61d1ace68e673493e2825b4fb9a6fd": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "162f9acaa119037eee58bbed7ec4e99c6e1dd0a21430c60bf00c61ab50a21f1d": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d529052de0a53b7673e15e3cbd8053d96fec6100ffbcd071d272e8f7d8f5db7c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bda462f29ab60a681e41917b0285eda217140bef8f357f5e78e85181cc44c47c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7c62d4cc00f1fcd8cca2f17aaafa2a6a2acb68600929c29dcafa622fbc4f1a68": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0802ceb3b2a694b8ace57d2f5422846fbf6bd96c5f7b26ecd08636742d589fe9": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cb634d32feb0a31a16b122db80addf4ffc10e48c06bcc77b5c223cf6a7e6f3bb": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c705761a7dc78b35d6afb58eea8e1c40cd2f2d7648106185c2186a679cd3f2af": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f809d4007615af6ba34f6056d8fc9b5851af583d1fb65419681753a9570bc0eb": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "25379403f8a91210c62dba68d6b4ef20e42d811f7f5a66998c18a962324748ba": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fbefd4370939daf46ccc2bdf4212944da511fa8ce02f1095a7ff24a4a46ba2f3": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f2698968c37ef50f76fccc09d5adfc9166504a339f933d91a44005fbb61bc105": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ca6423ef96ee3c30bb4554ef4d7e13a727c1477a45fab825e622237971a6d107": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "445985ccdc9964204d212eef450a9acb8197098a655022dd8460442776538023": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "16a994ba623b35ec367bbabb16a8dc80e753d5d87750cf60bc75570a870c4d99": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "aafbeffb274d0df6f8496383429add12ec55e3a30315cea83b024f8d84e63d2b": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4be3c84ad143a1580244fd691d4f73dfffb2311affe4c4a7af7f19fc3dd57c3f": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4cdddfa5cd8464d946740554e16bf57c7d066afd5abbacdbfb3534f510b4bdcc": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b9c39c99b9842508b7c73cc2f600cd19eddbb0998dc53c54cafef38c72caafdb": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ac8f5923ebca65cd2aba82fa8aeaab073385fca82e89a636f7358001b7862e68": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a564b9bc288563448c146bc76bbcfc480564cdd233f3d63af59bc91b8c5095a1": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "db09fcc6b07be7365bf6a1045391da53f20582170de6d8a630673a9cc8135b22": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fa3ebfb21110b9d25bd7f251491d9075e46f64029c87e545e6c90afe09fda07c": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5484ed936146ecd7c503f1525d567c05e813dc6676f94ba9d2c2634b4c6a1bf1": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0d24b6e6a281a94180c08287e8912894451640f638c605edb98c4b44b62d90d7": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1401b54a995b4edcfba984c1efe757f8f468165f02879cfb643be8d27a8a0fa3": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9a450b8eadf9bf0886c3e4e5afd4d87975f98dc81468ad0a4e37dd6cd086ba2c": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "43f51cab049de90c3654c520ea82027b55d797cc6acc1d4274fe5742326ef59f": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7e7f5ffcd9e6ff5fbe4340f4ec4662c235cfff9f622f86391ab18a64665d2052": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "80e6179a88f8f36da2bc8f2187d58ec011e0272108f61d1250f5c8fc2b497035": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "29f5a8ba7041a700afe5aa478fc810941f8eee0e4b31b1567138bca1a06ffe09": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "77e9a1e323ae2d340550e23b0bb961fa9408bd5d02648874050737e5062e28f7": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "05ca3bf22954e556d379c55a848b82fd174c9e074bc479033fd19ffd2fcba49b": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0d74f658f0ca61ef2df5bc96a72822271076f5891eda4be90dec93105e4486e6": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c427bef60830706b2f6ebcda53270e2e3a9cab3262a828a9ed794a05032766ab": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6cef4a57c1307e546a8865c5b5b4b96380118792b893bfbc77fc10524512df48": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "39f41aac60a314e139c25f26e9d01386a59e27f8d071544c4d822d8c48d15499": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f2ee8a6536e65fb1577a123f503a04f6ddae561f62a52138a3d9ea4639f76784": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8036f4c8014d6afbf66badd55a89fc2d00a6ed6d62a5941eaaf5383daefed4c7": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0e814c6f8f025d4f5294cb97ebdca61e625eba0493a6d5c16f02b82b098edf58": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "906ddf95af9abe485363e4ff108c26c698135ee9dd0548c9d06529cd2e9d0e29": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0f488e00e0d972aa2e090db81ca912b8427d0df28164cd33b402b35657baae9e": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6f66453c40173da6320eded36cf8b6d5324a8d137fdb6c78bd5df40fae3f93b7": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e88645eb6be9584d8940be9db0d576eb772ee45da78fd1f9eeb2772cf93b0630": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8e76d5c21d230cfd5e1a126617699bdedf5970654fe53e3a1508a3e9459a857f": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7876d3623312dfd4dcd842b9c8f4f6e3553e3d955842437603b7b4fd2cee0f47": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d01ee0dd3a648c6aa289f8e345cb0b7ae2a50ea5558450b6fa827bd88c88e42c": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6c9af86ab03448deca0060b04db8c337367b437401751100994664e49d633864": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e0c3e3d7fcb75e53320c0fe065d2efd43750c4ce97a9eca48d13bb4e6ae269a2": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d1f8ae928a64153ca80d2d6da4b96ba8c4f847bf9ce0fe97b38b3314ba85e08b": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b02a977e4128aa5892feabe5a1897f44a9db4dd4f5b9421dc1c60ece039e4641": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4d7c5ef2c3cbe616c27dc1cec21cb06c0b0b4ba1b8adc9b7f8e1dbc7fceb683d": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "69d62a3a3a50a37885257e4dc3de53bde6d83e2e8e8ee9dfd275c7b3f3c68b6e": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d0d977d6e60b3dd7f268bcfa6f904273fcb09f8e81476ac17ed63adede251535": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1e832ab3c7530d60f5352024b749455068b4b59f7162036b5e53a159fdd8c3c7": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "40f3e1d924aca401f0444ab4c6326365f47e4df27b34f9f75a9c3d4d047c7dc6": {
+      "category": "Fluids",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4a917f12b614197bd4609d866ba3900dcec5e4c76c65fb116da553d2d1f55741": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "06d54a90e2b336740cd61c6a89fff1b4c85c5fa8d3c6592674879f8a8eef4e78": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "46b2771a5e8caadf4010bd77ee3669ac966d8edfe0baa933fa277d294868fe78": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0560ee0afb2918f9297f3e6eefcda730db7ecc61eb6f2372940deda05d7b7177": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "92fd858ba12033d6df38440af8f6b66cc7fb35d4163d5e5437411de10e2aa2eb": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "95c46e137e39e40b9b6317a2f1112317412742cca2704368906a06014616fc41": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5ab3e52c1b6e25970b5091c2d1ca7d904dbd3c0e2d7b0b2f0e5f8ed490363a0e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a41f314e8bd6494589394793524e819d8372ed1fe3dc66ec53054a7d23b74a62": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "453d7686f14ac47dc53aef51f9968b5226787d66b167e2a34dc96b147d3463b1": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c0e640c970c1ea2d4eddc169e60e96ff7f2eb9b945894a24a490675f78b46f1b": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "69b96bc6d0cd4b73362e32cc1b6e68736ee2653161197e41536cc852d6f3a417": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "99850c5b2e8dd3e9bae6fb4e447bcf69ada37a2fa47ec701abbe6931e991a7c3": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8e8bc98bcbdf8fe96e6800ae598e5dec2cb699a5b52baeb8a982972f6f7c7c33": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "78e5395bcc0014228fbd3323862669db22fbd76b18ef978772219524192a7a50": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "908d2862710f9795508911a3e23768d60add31520f6e6a6b587f89d835eb813e": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7c3c25b4fef00fff5a32abfe8d60907be7a319f2433ac4842b339ef15265f211": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1b095cac9dd62da28790f4914be5b87d876177e85ba54254cf43875bcff65f76": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "40d280b19dc367338da1b6999b37bd9a46b8f2840c0093b5c29d61b954516598": {
+      "category": "Fluids",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4f606dff69d3f74bfa734fa52211b577855cd8a6acaffa9d6f4058af6208975d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "10e3a80633a140b1753efe1fdcc1d8b670d1afcec1f2e5d48ca33a4cfaaa1cc4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a272aded22c2ff783930aebbb97ca8c2f17c66a651dfd96252190ccbc09f1f25": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3248857af410d259cfdf30e9ce35295a883b50a32f7baa1b49a55a693c0efaa0": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cab1bfa01c13c219e2b7484f75ade3daa8c5826c8df51a0bc2849ffc5d27a3c4": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "68bb66ab4c07ec046d130b3489f8142378613c4b5616df3602345d348504016e": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "74b82e8a6af194d241f7a250cfa3cb0202024e93c1c4a862b5d69f3a10cb2a18": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e2fcbf3b0439bf77066c0d56c462ec6120813e44d2fc8b0168e16d491870047d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "47dc80475b73028d58c90aed0af17df7440d7a639d5a5cfa4493840bf173af32": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1439c898620c23481b789e2e89e7ed625ed0a12188aed5b83394793cfe153b95": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "62bc5f84179836172c5794e5beb6930b586478c8f50869d4f3d1dcffdb8c5f8c": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bae943faaa100b6d0410b5dcccd17bce97f62f064b9b169eab294fe8a93b9e38": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d64589f161bc41801720b9a9d9a1bd6e34b510fc72a5d90c873804203f111065": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3d6191bd06f8854f5f7557530b13f6ca08491a901b7f859561d70f5801f835f0": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6bc6cbfe4c05d296d33084ba4cebed4c70dde739045c88346baff136ab460187": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f55c0c983d13f48ba09e8d5b218312fdca6287f08bd8bdfd095573ecd4148b88": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a05f835cfe5ea9845756df706daad5b928edcc876f4515b6b5733b8fbf8d3ab1": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "121f86d8118dbfb1cde37d895f1f35e5774f39ec988f24df591db6624d25e65c": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d920b6c42074acfef0c0c23930f8bcd93ab7a117c67d1d4ab07c29d5d024e4c2": {
+      "category": "Gravity",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8f1400f805085e0878b89e3b6615018667eaf7b2094a445aaaf13139901436ec": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "28ab2c9887652a83587294fffbb624d8256b25b19c8b87ab06c1aef89333d048": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5a9c804b7c45ace1bc493d8199581b28d31651ce34052f124bdeed5f29f26311": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0c0a978aea5a37f362ebc5b9b3afcc09e9633b9d0fbe0fee88c39851570c52ec": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0e7a9f765b980360671b419290fca3a0d6ce60682f6e53a6e4f67c1a82be0edf": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3f637ee6bc40122e09168ccc049c15a843a5083e8401794c3d2d140976809a3b": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d5f899db559f46f013920ba82d4eb65f0cdd719908df4150a676419bb1ab643f": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e449edf4981f40c7bd7c2439fe4ba94ce630d0ab5290d00c620f54423c2ba657": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8c54c6c61ba9af824d16a9b34f94f0c514a4764df4d06baf1902cd4e8f413d7a": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "18d10d6008299d8209cfa112f70e2d7c36422061fc65b6c6b6fcb3612900a57e": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b7b06735aa055ce667239b79e38edd37a3357786e83ff5e2e5f5dc63a927b450": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0b7b5962b9e5ac4b2dbe21825b3c41c5025e2c7be3c2c50376bade4ee23dceb7": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3c36d4806c98a80d083f32481c29423c5f479ce689a4766539affa617f092ded": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c4baf8e78b6d76efe501a8e945c8699befc45c49f16b32cb414a29f06afef3ab": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "adba47d9fde60b35e897fe458da736df1fd058e8643742fffdec898137718795": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "10f61bb00a99aef921cc49e661af16a7c1c64bef7f2b5a9aad8099fbd393f3a2": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "29b48fd257ccebbaa2a328211c9ce9f77cc2d65379702a56f4cbc4e133c94ee1": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8ed5ff5a35ff730963b592263c0ff1da992a905c20a7198312147be4fe1e613b": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "36afeb3ea2ddc5e669a2594f385fa5c0566b30aac99610c7382dd0a3f3339d4b": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "464110092d48c50ed4cecbbb2f232ac35e18d94b4725957ca4388c2c4e965916": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f6ca729c81c9ef120ea4b2cee7e3bf245b2e50e2f68166e7b3cedc6733c19123": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3f7b9b3f217105a75d2d61d21ccc69a8c821ba91c22e45c39e713f366c9b88f0": {
+      "category": "Dynamics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bea99bea45b35ff343b2fe0990a7ac561f85786f9ede004009e259266f225499": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "84bec602322867e017de8c7ff13dc8b3cf2df51d33b4c388137f528656e6e2a3": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d230d1bb411e423c33f34cddc98ce9fd61a8f99f174a0f834177f1a1e536981c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9d78039fd40a49ad1cc7434808cacf874d3664a1c140bfaa624cf0130a74cba7": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f8f83385b308bd7bab5f139dfc228edd62864abfe30ae085796db32869dcf3ff": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6ed657b4e3f5ad71fc0ded69e3d061786cbc9b8fc31b78a6a499eecf32254b62": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c7884333fd943f0a44019f7eb7e788bb45e65065e9295fd7a59ce519da227054": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "19d195e511b2735ee0f705fa9d3e4be17a4df1e113097a853d5149ef085cb24f": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "837a8fb8a49be0e27bc66de1210999afdaafe13a048f680811a527b6b751301c": {
+      "category": "Collisions",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7a63a1002620678e9e63e42b6451f8b4391448cb80ef76b5bc9dfa01f370aecf": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "667e410d0f000099233a3ec4acab6a6ff84a3bb4fd8909efbeb575e1d1db604c": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8e82002a50001ea8ecc8a3e968167ad3bc200e4c99be406309cf8a4fbffe25bd": {
+      "category": "Oscillatory Motion",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a1b478a7ab137c30da26dbf76c17d8fb6a0b93e2b47f53faa75b8eb895c8b9f1": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a686ee53d1c4b2afed723b34b01442d96205fd3471b1a4dd975176d96089005f": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b4c2c000aad725c66d87311c7aee4bf773997568ecbcc2f73bfd1d7b35a9bea1": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fb09592d48edf376b0a37d61b61a6ae32d50eadfa12807be35fe90999ed52b68": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2d22898dcd57456da713d79e77866cf8d76b4401ad1ab1fd9d1917412519c43d": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2d46de841b57aa81414efd182b3286ccb34bf4171a379d38fcf527bd6f55f952": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "216762f470057a90edf2be8016911a452c9f35d32002ca318812ba27ec8ad1ec": {
+      "category": "Dynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "aae576db5115eb8fb9db20312b0a998dfb8b655516c637d19592f6af8ee9083c": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3399b6309f87642842e4b46c1a0e710138f01b90e38e596f6b83a45658c72ae0": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "427b8ad284ac8ce12a078dd823755d3fb928be5a43620d4b1b951b906eca7daa": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a7024b6cf296a902644d7976b1e0e1124a99ef91a90fc918cba3736f3bdc3acd": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7a7b4ab13e8d5250e5e1bc8528acc831cf6a05f1a940890a1b1dcdff4906f78b": {
+      "category": "Kinematics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6bd93a3bb318f270a750860dbfd4f0bead1128d32b0357399d504e953403e33d": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c00e238bf7f5e4555aec80138a9b846754dc177f1bd9ed28b2ffbe49fd1b7177": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "875d11b34b879c9eb73967a590e92532a9f3e1473e6b35dcdeca509b0bf22a43": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8676d51b897074fa54bc02d60b64af4f88f2fde7f3888d15aa098fe10db030a0": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2375d43abcada62145ae4c2e7beb0ef3154b46e26a260f8c88573e9ee70ba326": {
+      "category": "Kinematics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "050729e3e465e93ee67caaa641a8d497d78b479f5fd15802bcee44e955bb6e00": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "882f82f141480f127de6a191cae5c389c2405cea3f9d5ed373da095d36cc604f": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6e230619e5f44e3cee4421ba913e9a53a8d51ce4aac366315378ca1aeae70075": {
+      "category": "Collisions",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "42cfee1f42ec8595afef416976ce335dc4b1dc8b21d6d8f0e01caa2452ecf274": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d5ca9eac1e1788bafe54ca8b4d874162fedaee19f8e7e56ac39d611a161c72f5": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a06ca96c7207926a25dac742b7e2fda27a4e29c872af2e7333905f0d2e6fcb67": {
+      "category": "Rigid Bodies",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "54a1ec4871d12f5d4c7794e671f1c990da2f3700d4cd8cdc75d088059b412da2": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ed54641648599588bc392bfc4629c37f047c0a0c80c355c003a4496f833f622d": {
+      "category": "Dynamics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2839f071b6045073b4ca4f1615d379eda55c09687b0b3945b872ca161a9728f5": {
+      "category": "Oscillatory Motion",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b69b40c2335599ef9864d994aa46131cec4fc391ee69b1620cc12e01ebf7b4e0": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0ef54d0cad2da1471695493c49bcc0f4dbc9efb2b89e31984889764d9fce7011": {
+      "category": "Gravity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "17fbfb0372438872d1067b1631ba71d4cd5643d4ed83f1b2f5297c717a0b47f3": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8349159ef5fb9ad667900d79098b875daf9bbe6e901631c5a211f497eb381f55": {
+      "category": "Fluids",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "50698d5e8b363a80c6cad98a89968a82bdc8ebf70c315a53f6352606de652697": {
+      "category": "Dimensional Analysis",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9848e9742eecc8c87b99089d333dfdd4062f092fd0b413d193e8822fcdff280d": {
+      "category": "Rigid Bodies",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c91ad640e2df91bc431de0c37a7c6871178b57076bdb999507691ec62a7f1645": {
+      "category": "Energy",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4333c3751ce869f3daf110ba69f2acee0f74b3c8b9f04e01130c267b191bf658": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "4da9768270130fb86cacb04217e1d7356da902f0ef7a941d74fa38ecb234d049": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c154dd4009d0705a8d32099ee8b6c62c611098b689b626c60ce2a94f443cd2a4": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "da757ba51a7a3b53441a36187aaf97196895634ebf7071350aba8d7877c1fb92": {
+      "category": "Waves",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "12bcc4e4686f7d5065a40fb6038d398d882c42094cef7f7f3f81ca7b70ae7694": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7aed0df21e2f797da777034bfb0640b4c838080fd0bf2a3288ae4cb1b2af8dda": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "445c4cc9b191b2519e8416230712d598a214b7c8530eab18a391c23434798f1b": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7bc8cad9fa2742deba25dee7c7bf6e49aa409b7ee1bf0207805bc26414057232": {
+      "category": "Nuclear",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "97a89b1cb3cc590461c111d4fb2d160db5153c48da50fa46d899843e98a5f9f0": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "877cf413bb60d2161fc2683b82c78e3d1c95e5e3a9355971a277fef7a700fa51": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "76335fe6e34f37685c1364ef86dac77b48cc6000bb1620de92a0c13443d617d4": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "201ad43e8a4f3c79569baba16db81cc4aba75a2580f0d67a48644124d0f90839": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "65de3677e559771615f741fefb16569c9a363c54440b58ce03122e03aa377099": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "19757396eb4784db207818b14aecfd4c577ab071ca61ffae80548fdb027708fb": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d4875f87c2e6638eb3bb17040857ee7544932f75c9481889f5a1bf1991569710": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "02e4ff65d21a080a2165ff1fdb900bab7eaa4b872921456bcc3704336af3d20f": {
+      "category": "Nuclear",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "18e0c90d2872ea81c8be6bd0ab4bb3459dbaf018ae6be3ae8281b59f25fa8856": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f0fa419403ed31ecc1ddb4d2d483fabdd3288803d34f2e7cdaad53b52e423ca9": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "091b7bc010d366c45dc11f11faa9fbff789ce29a9fd63a1e1d69febf3e41c0a8": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8e577b6042c7d06ee473cf8e48908c875b419c54e146a25ceeef33c112e504f2": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f87c6dea743ac2b158f55b0cd8b5805da84032a434c9d722c6c0703f3cb3695c": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9ce1342cceb17163b11844b14f2ffbc201cb6280029bacfd4757813297b2a265": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3f63ad9a0406ec6b5234aa2ad35b59de298522301c938c15bf75ef5890fee8f9": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bce1cee736e10c4ee6d092b38a48fbe698a6ac60afe3d1548ca1a80ef7c781a0": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f06500c71a6ece0007d17ac041291cfd803e5b953eca2cb65db092ed161f34d4": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "db507c3af1a163c43b32c2c2ef9d879bd5435acbe4600ac54995f2e6b0bfc7cc": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9ed578d4d04245d81941609efa71bec247cc6d3db2d9dd931fe24689e45de2a2": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5296a0f1195a07cb939ac7de6f9a6938c32e25c0b98eda4f0f17d17ce38e9199": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2854ac7980e0cab55cc8b3470e12d74f585a86b113379e453951c7072641ae86": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "881eaefe8ddf3c635da112ff41b0b93583170fda70f02cb068f81d73c428f990": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "79de79b6ecac969a4a356dbf05c2d6bdad4b074459149b0d7e27893ed4546da1": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0752fbdb2f61d75954ebc96a419e6225b9643df4234ef230c02983fcc1c4fbcd": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "039718b0635ee29bd5991f4509c4e69df4e83494be65a5a93f6c04321b8f2908": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "51e9c54bb79754901fdc5fb472de53247d46fb9e39adfccf4748e658202a7576": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f9d61026f4bb6b10cb4d4f1dadc8806bd1adfa6e8dccfa1a893d777e9882982e": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "af315ba16782b7d764856ea1d2d74060a2889b00efe2c5b1f919c12dd5231018": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "934ff9b84edfdf827c4e815cfbb099d79fc55efc81a29a6cb28f30badea11618": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2cb2d81e983e0b00abe6f4340faddb7e1c32e21513a4e6213f623236b6efaee5": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "219fbe8e97ad3aacf264fb675f6722e0658e7ef5aa6e524081d07a354535c174": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b1bfebc360523b7d5e5893ef2742836f14d7b714d523ee9f593fde8b6a550d24": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0956597c95ca254e935832005bde521b550389681e05099c089e1d6bc6fefb55": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5f22569be26c126f95abf28d723a7a6916b608632b3b965f5fc5ec219841d5a5": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "682213b2142e894f751907c3d14fcd0389e46d7d2bb64aef54d4c36add68fba4": {
+      "category": "Mechanics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9f9e450594a58a04410ccaab4647e0a91253224a281daa89535a578b459b2e8b": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "51f984274e8ec97a94579dbf70422075b3702ca5a58bb183bce3c1ce134282cd": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6effb7e0ab345dc7c05d13e28473de41d93af16c973ae4e3433160f6e1a34f67": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "ef0e88c8b959ace109347c801015be2d37e94dc9e66da9933f3cde32cb6601b0": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a25b53ed8861227cba968bb6c0e45f78401f7c1ab56b10519fab7d349f0691be": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "62286295c3cdaa89712f7fcdd68832893c4c96636fad8c9afda4346081c80385": {
+      "category": "Waves",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e9c753258c08f4d35489ba4ae09a6098fbd0b757db803d750dcecee3d14d45a1": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fb120ce9f3c7fb5d3578a932e069812b897b775c7a7ab79e9b14c7a64669d461": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0f9f1717ed728434a62f051737ff8551a4863bea0f0fe85f50eebee98a334f90": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "db4ff8c23a2fd0db31f2daf082536cf0ba5cdfcf3cc81dfff8c7451554eb8d5d": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e3f2d979b9adb85be4e262795744312b0862e4a3a30323052c69318a246c1e45": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "07b0dd98b43b0238824cbba3b95f910d2fd1996c7c8b813f7d4c155356479cc4": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "11c837248cd6a9c641239322486f412e084b00063e1cb33e8f75f36baa0bb8d4": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0da99e3f6e2c7f26739b1105671d14292d7890f334df8fc48b83a1b6c9e1107f": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d4f90986e7bddfd73e3100021097eb17677f4f23162e8685acbbd63e68949a75": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "dfaaf0c7f3845098b804264bbee07d4f08b1677e46e8831dcf41e4968195c433": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "f4649ac96b7ff23da01522ad81b7b1194599f428f2a55d56d7fc9e676ba4d1f7": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "65c3983be1264726b6e59426e0dc582396329a6240c3223e37057cb9c95fb2c8": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fcd7800a49f3a3370d94d3d86b19303ab09b03b1d43dd8360b3049ec16e0954f": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6d4c81ab574320237662a6489c28cb89488e5adf15e99248203d1a7ecf615bc7": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "dc7e2cef422d70368f3bd349c1be9fad36df32767846d9fd4b4cb4467dfe3f29": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "d1262fb74590c7490f1e40fdeee1137a61f638ba55525be21a1bf35bc7115843": {
+      "category": "Optics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "01c178a2c79af1fe47529ac7992feee1f4a60203009303abed489c0906559c17": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "b6e5bd681d35f9ec64aeeb9971f71cc158c9ae826080079c1ffefeadce1aa1b7": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c371a9a0caa1638e92ce4723c58f0f62e4721e97a9fdd050c4163621fe51209c": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8edcd588ac2939a610d9f6c2d342726445b52118ecf633f7831b74770e270265": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "3d50a93e56b47359468a4317143df0a5928bda58bb96038836334245f475392e": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "18e43ec551b7f8d8cefc7603ffd3243ce917b96659280bcc4380873e42befbec": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "99a9012e09744bc1516fcd7a36dcb3c00eb271ad08de5a93c8a84254fdb28b0b": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c47a8a2213b55e3b460fab2582c157047bd46885139bba911c48d7cabc4d9265": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "9eea717275f984dccddc57641b576802f0940ab5e77abe9869e628e69474f55d": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cc8f655afe5a5c631f04f8c4400bf41db23d03b5092c96ea678bffaae8c269a5": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "077bc5ccc691f5ea0784f93aabf58ea337f63db5baf2fba2f79cdc26ab11a3fd": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "1a59492795937b648a65034dffa821babd06ef29bdd7b1643e1a0f86813beab4": {
+      "category": "Optics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "834a85840c9b19c814c70e651382ea2064386fa85df3a9ad9260c6ae1fe2c8db": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "31062ba9094fc3e09fc1003a5eb5c46ca63b3aa5d8c95e7b9ec6d6920c832f66": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "aac42f8d639499245c67874367cf49b3d74cc530e55492aa6f78b67b9bdf5f40": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "861ffedfda266f0764418f726e65464ac7d339d2f0fcf21bf6f0b176ec35cac9": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "5183488bb7b707ecb91efca79bc8eeba4e258389fa904b91e9a75f8a0c544d50": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e0709fe8c94c181f822d5883c1fce9b7fb0836a2dd4eb628ef3d883878c63d3f": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6dcef24539ef60d2d0bbcc6af384b265974d9bd0778c138cc9053dcce05924b6": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "151676bcf240ea9a9d28ab171cb5a41f161f5c36c6ea7b170c6b2e3a6526974d": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "126cfdee8561ac40106feb1a482f7fabbe80a839212503b8fb5fdf22bf5f22a9": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2417e816da409ab557664078ca7cac85856b5d27de5e904c3b0eeb702a2f90fd": {
+      "category": "Optics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "7c8dc00040769853335ab43e6e98dd9c90273df427a48e514dff771fc199124e": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "dd93134cd86a74da10bc6fcc7895970b5bd6ef3a33da71f05c3a07744e39fd32": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "0c14e99b4889161030b7b1d49f86c4d999ea47a8316194599b6f57f46ae0ce98": {
+      "category": "Mechanics",
+      "confidence": "medium",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "a62000dafda427b52335603c1abf64d96c0a5b8a5a9dc058ac4a4519b6af9170": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "bcda401c2be42a0028d0851bf8bb2015b88096d928955ebf83f121d8bc682856": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "93691f38694ff66e51373c727461efa77819603703d05d629e820fd0d3c3c9ef": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "695f57bb4b709a05861f568f43c470d42141b7dfb669908cfa1c3b675d4672ba": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "15c278521a68fadd917190069689cccd0a381b35d8fb25ec1af785d05b817f66": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "39c67fe994ce338d4e5860f2211fc129265216197969aff732f6abe08231e57f": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "c866fc06cbf5c8374fe345adfae983c1441bc64bd9bda29453a85038613d90ba": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6ec3e7dbbc73588ba0b9e712c66b4ebefbad0a35490f87148432c5d9407656b9": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8fcebf229b0040147eaa26443ff71cbc4e333f1e3ef56f0ba47e6e374251d5b0": {
+      "category": "Optics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "e5c48e198fbd775592af672e9c1bfc7e770258def460160dd8e5315ab58af3f9": {
+      "category": "Relativity",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fde472f7b19ed7c88aa34759a589044703e7994ca8180eedb2f961d89912c8d3": {
+      "category": "Thermodynamics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "8154df9501bfe2b5ba92e4b2d29d1eb3bf3aed90979423c0031836fc3a568a4f": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "91826e0ed1511b5ddb7dbb968b081e214bd4b0b0836d2e9474e6c4bd344a2ab1": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "2bf395e46e94200a30f91baf6c709531e4e20e117ff0f89686ead3d376295e63": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fe9a11333429914e64eda80194c4839afc78c819b92f6b1104c100599e119adb": {
+      "category": "Electromagnetism",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "fd2871995f516ed8d2b8e8e13eb9b64c506df4edb03378c6a5a16362775f3412": {
+      "category": "Mechanics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "cf45ab40b4f5ded72c6816e3e4c1013f474a39842776b3ac026619360e9723c7": {
+      "category": "Waves",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    },
+    "6fe306e1c15d9f892572aeadd590b76796bd1b95135687a9c47d5c7931ff7c23": {
+      "category": "Optics",
+      "confidence": "high",
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite"
+    }
+  },
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite"
+}
